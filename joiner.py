@@ -67,4 +67,3 @@ if __name__ == '__main__':
     for arg in args:
         compile_db(arg)
         print(f"Wrote compiled cheat code DB to 'build/{arg}.json'.")
-input("Press 'enter' or close this dialog to exit.")
