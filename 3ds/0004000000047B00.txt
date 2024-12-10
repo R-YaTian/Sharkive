@@ -1,11 +1,11 @@
-[Infinite Lives]
+[无限命]
 08AF4364 00000063
 
-[Start with 99 Lives, not Infinite]
+[99命开局(非无限)]
 08AF5558 00000063
 
-[Infinite Nano Coins]
+[无限纳米币]
 08AF55FC 00000063
 
-[Infinite Energy]
+[无限能量]
 28AF430A 00000080

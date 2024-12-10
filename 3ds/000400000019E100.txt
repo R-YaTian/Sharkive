@@ -1,17 +1,17 @@
-[Quick Level Gain]
+[快速升级]
 003D6154 00000001
 003D6158 00000001
 003D615C 00000001
 003D6160 00000001
 
-[Max Kreisia Points]
+[最大克雷西亚点数]
 003A9794 0001869F
 
-[Max Gold]
+[钱最大]
 003D5E00 05F5E0FF
 
-[Max Battle Coins]
+[战斗币最大]
 103D5DDC 0000270F
 
-[Infinite Warding Card Time]
+[守卫卡无限时间]
 203D6126 000000C8

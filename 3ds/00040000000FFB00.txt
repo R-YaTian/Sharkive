@@ -1,17 +1,17 @@
-[99 Coins]
+[99币]
 2892CBC2 00000063
 
-[Refill Time push R]
+[恢复时间]
 DD000000 00000100
 2892CB4E 00000002
 D2000000 00000000
 
-[Invincible]
+[无敌]
 2892CBAB 00000001
 
-[Always Fire Mario]
+[始终为火马里奥]
 2892CB95 00000001
 2892CB9E 00000001
 
-[Infinite Lives]
+[无限命]
 2892CB4F 00000009
