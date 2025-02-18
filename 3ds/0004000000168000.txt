@@ -1,2 +1,2 @@
-[Max Studs]
+[螺柱最大]
 00575078 FFFFFFFF
