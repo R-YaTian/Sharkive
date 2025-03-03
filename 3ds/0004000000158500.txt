@@ -1,2 +1,2 @@
-[(Excave 2!) Maximum Gold]
+[(Excave 2!)金币最大]
 08899ABC 7FFFFFFF
