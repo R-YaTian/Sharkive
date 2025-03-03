@@ -1,9 +1,9 @@
-[Infinite Ammo]
+[无限弹药]
 28006EF8 0000000C
 
-[Infinite Time]
+[无限时间]
 28006ECC 00000000
 08006EDC 42C842C8
 
-[Infinite Health]
+[无限生命值]
 18006F06 000042C8

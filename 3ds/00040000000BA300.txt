@@ -1,8 +1,8 @@
-[Infinite Nano Coins]
+[无限Nano币]
 089FBF34 00000063
 
-[Start With 99 Lives, not Infinite]
+[开局99命(非无限)]
 089FBE90 00000063
 
-[Infinite Lives]
+[无限命]
 089FAC18 00000063

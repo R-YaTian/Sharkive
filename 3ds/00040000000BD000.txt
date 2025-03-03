@@ -1,4 +1,4 @@
-[Running Into Enemies Kills Them]
+[遇到敌人会杀死他们]
 D3000000 08000000
 20801CE9 00000000
 D2000000 00000000

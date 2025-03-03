@@ -1,7 +1,7 @@
-[Max Money]
+[钱最大]
 004FB6B4 0098967F
 
-[(Sel + Down) 99x Inventory Items]
+[99x 库存物品]
 DD000000 00000084
 C0000000 00000014
 204FBBD8 00000063

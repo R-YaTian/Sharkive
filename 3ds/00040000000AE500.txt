@@ -1,5 +1,5 @@
-[Infinite Ammo]
+[无限弹药]
 08236F1C 00000014
 
-[Infinite Health]
+[无限生命值]
 08236F3C 00000003

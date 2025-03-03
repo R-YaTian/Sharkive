@@ -1,5 +1,5 @@
-[4294901760 super build bricks]
+[4294901760个超级建筑砖]
 00593430 FFFF0000
 
-[Max studs]
+[钱最大]
 00593418 FFFFFFFF
