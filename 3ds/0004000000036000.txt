@@ -1,8 +1,8 @@
-[Infinite Nitro-Rage]
+[无限氮气]
 102B5D10 00001000
 
-[No Damage]
+[无伤害]
 104CAE5E 0000FFFF
 
-[Time 0:00]
+[时间 0:00]
 002B5D18 00000000

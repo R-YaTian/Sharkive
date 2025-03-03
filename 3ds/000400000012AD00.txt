@@ -1,2 +1,2 @@
-[Max And Infinite Point]
+[点数最大并无限]
 00C705D8 1111AF0A

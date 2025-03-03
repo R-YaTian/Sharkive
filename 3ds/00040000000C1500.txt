@@ -1,11 +1,11 @@
-[Infinite Ammo (Enable AFTER Hunt Starts)]
+[无限弹药(狩猎开始后启用)]
 D3000000 10000000
 04B6CC1C 00000007
 
-[Always have Slow-Mo (Tap to Reload it)]
+[始终持有慢动作(点击重载)]
 D3000000 10000000
 04564B04 00000064
 
-[Infinite Health]
+[无限生命值]
 D3000000 10000000
 04564B0C 00000064
