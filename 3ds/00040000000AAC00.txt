@@ -1,11 +1,11 @@
-[Max Book Of Wisdom]
+[智慧之书最大]
 2A38F97C 00000005
 
-[Max Mana Potion]
+[法力药剂最大]
 2A38F984 00000005
 
-[Max Health Potion]
+[生命药剂最大]
 2A38F980 00000005
 
-[Max Gold]
+[金最大]
 0A38F978 0001869F

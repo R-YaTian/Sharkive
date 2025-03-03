@@ -1,76 +1,76 @@
-[Shovel K. Freeze HP 4 orbs (v4.1)]
+[Shovel K. 锁定 HP 4 orbs]
 D3000000 30000000
 6109F594 00000000
 B109F594 00000000
 00000404 41000000
 D2000000 00000000
 
-[Shovel K. Freeze MP 99/99 (v4.1)]
+[Shovel K. 锁定 MP 99/99]
 D3000000 30000000
 6109F594 00000000
 B109F594 00000000
 000006F0 00006363
 D2000000 00000000
 
-[Shovel K. 99,999 Money (v4.1)]
+[Shovel K. 99,999 钱]
 D3000000 30000000
 6109F594 00000000
 B109F594 00000000
 000006F4 0001869F
 D2000000 00000000
 
-[Plague/Specter/King Freeze HP 4 orbs (v4.1)]
+[Plague/Specter/King 锁定 HP 4 orbs]
 609580B0 00000000
 B09580B0 00000000
 000000E8 41000000
 D2000000 00000000
 
-[Plague/Specter/King 99,999 Money (v4.1)]
+[Plague/Specter/King 99,999 钱]
 609580B0 00000000
 B09580B0 00000000
 000003D8 0001869F
 D2000000 00000000
 
-[Plague K. Freeze Tonics (v4.1)]
+[Plague K. 锁定 Tonics]
 00879E14 00000005
 
-[Plague K. Max Alchemy (v4.1)]
+[Plague K. Alchemy值最大]
 00879E20 00000002
 
-[Max Money, Game v2.0]
+[钱最大,游戏版本v2.0]
 00548B84 0001869F
 
-[Infinite Tonics, Game v2.0]
+[无限 Tonics, 游戏版本v2.0]
 20548B80 00000005
 
-[Max Money, Game v2.1]
+[钱最大,游戏版本v2.1]
 005DB504 0001869F
 
-[Infinite Tonics, Game v2.1]
+[无限 Tonics, 游戏版本v2.1]
 205DB500 00000005
 
-[Max Money game v1.0]
+[钱最大,游戏版本v1.0]
 00548B84 0001869F
 
-[Magic Max upgraded game v1.0]
+[魔法最大增长 游戏版本v1.0]
 20548B8C 00000014
 
-[Life Max upgraded game v1.0]
+[生命最大增长 游戏版本v1.0]
 20548B78 0000000A
 
-[Armor slot change item game v1.0]
+[防具槽切换物品 游戏版本v1.0]
 20548B94 00000007
 
-[Magic Max upgraded game v2.1]
+[魔法最大增长 游戏版本v2.1]
 205DB50C 00000014
 
-[Life Max upgraded game v2.1]
+[生命最大增长 游戏版本v2.1]
 205DB4F8 0000000A
 
-[Armor slot change item game v2.1]
+[防具槽切换物品 游戏版本v2.1]
 205DB514 00000007
 
-[Infinite HP (ver. 2.2)]
+[无限生命 (ver. 2.2)]
 D3000000 30000000
 61493714 00000000
 B1493714 00000000
@@ -78,7 +78,7 @@ DA000000 0000037A
 D7000000 00000376
 D2000000 00000000
 
-[Infinite MP (ver. 2.2)]
+[无限MP (ver. 2.2)]
 D3000000 30000000
 61493714 00000000
 B1493714 00000000

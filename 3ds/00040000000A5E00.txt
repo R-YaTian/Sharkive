@@ -1,23 +1,23 @@
-[18 Sticker Pages]
+[18贴纸页]
 082BDA78 00000012
 
-[Unlimited Coins]
+[无限币]
 082BCE9C 0000270F
 
-[Infinite Health]
+[无限生命]
 082BCEA0 000003E7
 082BCEA4 000003E7
 
-[Max Health Modifier]
+[最大生命修改器]
 282BCEA4 000000AF
 282BDBE0 000000AF
 
-[8 Sticker Pages]
+[8贴纸页]
 082BDA78 00000008
 
-[Reset Amount of money]
+[重置钱的数量]
 082BCE9C 00000000
 
-[Reset Health to 20]
+[重置生命到20]
 082BCEA0 00000014
 082BCEA4 00000014

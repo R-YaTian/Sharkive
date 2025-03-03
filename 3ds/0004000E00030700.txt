@@ -1,8 +1,8 @@
-[Drifting sounds like scratching on a turntable]
+[让漂移听起来像在转盘上刮擦]
 002514A8 40000000
 
-[Extreme FOV]
+[扩展视角]
 0022FCF4 3E000000
 
-[Vehicles are huge and have slightly weird physics]
+[使车辆体积庞大物理特性怪异]
 002D41B8 40000000

@@ -1,4 +1,4 @@
-[Max/Inf Hint Coins]
+[最大/无限 Hint 币]
 00433FBE 000003E7
 00433FC0 000003E7
 
