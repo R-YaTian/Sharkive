@@ -1,23 +1,23 @@
-[9999 coins]
+[9999币]
 082BC33C 0000270F
 
 [999 HP]
 082BC340 000003E7
 082BC344 000003E7
 
-[18 Sticker Pages]
+[18贴纸页]
 082BCF18 00000012
 
-[8 Sticker Pages]
+[8贴纸页]
 082BCF18 00000008
 
-[Reset Health to 20]
+[重置生命值为20]
 082BC340 00000014
 082BC344 00000014
 
-[Max Health Modifier]
+[最大生命值修改器]
 082BC340 000000AF
 082BC344 000000AF
 
-[Reset Amount of money]
+[重置钱数额]
 082BC33C 00000000

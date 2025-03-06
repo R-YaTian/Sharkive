@@ -1,10 +1,10 @@
-[Lee Exp Points]
+[李经验点]
 00418838 000F423F
 
-[Naruto Exp points]
+[鸣人经验点]
 004187DC 000F423F
 
-[Max chakra (stages only)]
+[轮最大(仅任务)]
 2041A178 00000078
 20419FDC 00000078
 2041A314 00000078
