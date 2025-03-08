@@ -1,7 +1,7 @@
-[Max Chain Blast Gauge]
+[连锁爆破Gauge 最大]
 D3000000 10000000
 05D25A04 00000003
 
-[Max Extend Gauge]
+[扩展Gauge 最大]
 D3000000 10000000
 05D25A11 00000003
