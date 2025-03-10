@@ -1,8 +1,8 @@
-[6 blueprint pieces in stage]
+[关卡中全6个蓝图碎片]
 1834FD6C 00000006
 
-[5 Crystal Shard pieces in stage]
+[关卡中全5个水晶碎片]
 0834FD68 00000005
 
-[1000 rings in stage]
+[关卡中全1000环]
 1834FD64 000003E8

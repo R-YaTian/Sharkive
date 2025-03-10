@@ -1,5 +1,5 @@
-[Max Record points]
+[记录分数最大]
 08261F0C FFFFFFFF
 
-[Max total lines]
+[总消除行数最大]
 08440D04 FFFFFFFF
