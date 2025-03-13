@@ -1,14 +1,14 @@
-[Jinbei Max Exp.]
+[月岛仁兵卫经验最大]
 00353B68 000FFFFF
 
-[Mugai Max Exp.]
+[无涯经验最大]
 00353C68 000FFFFF
 
-[Hibachi Max Exp.]
+[火盆经验最大]
 00353CE8 000FFFFF
 
-[Shungiku Max Exp.]
+[恋川春菊经验最大]
 00353DE8 000FFFFF
 
-[Tenma Max Exp.]
+[一乃谷天间经验最大]
 00353EE8 000FFFFF

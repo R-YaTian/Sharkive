@@ -1,26 +1,26 @@
-[Black Nightmares Lives]
+[黑色噩梦无限命]
 2875470C 00000003
 
-[Brick Breaker Lives]
+[打砖块无限命]
 287056AC 00000003
 
-[Special Delivery Lives]
+[特快专递无限命]
 287546DC 00000003
 
-[Tangled Space Lives]
+[混乱太空无限命]
 287546E4 00000009
 
-[Lander Lives]
+[Lander无限命]
 286BDF74 00000003
 
-[Lander Double Shot]
+[Lander双射]
 286BDFC4 0000000A
 
-[Lander Single Shot]
+[Lander单射]
 286BDFC0 0000000A
 
-[Saucer Room Lives]
+[碟子房间无限命]
 28705E30 0000000A
 
-[Devil Maze Lives]
+[魔鬼迷宫无限命]
 286BDFA0 00000003

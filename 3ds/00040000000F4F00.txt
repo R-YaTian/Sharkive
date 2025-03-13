@@ -1,18 +1,18 @@
-[Max Money]
+[钱最大]
 0808F124 05F5E0FF
 
-[Main Character Max HP]
+[主角色HP最大]
 1808F0F6 0000270F
 1808F0FA 0000270F
 
-[Main Character Max Stamina]
+[主角色Stamina最大]
 1808F0FC 0000270F
 1808F100 0000270F
 
-[Main Character Level 99]
+[主角色等级99]
 2808F110 00000063
 
-[Main Character Max Stats]
+[主角色满状态]
 0808F118 012C012C
 0808F11C 012C012C
 1808F120 0000012C

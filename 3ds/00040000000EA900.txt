@@ -1,24 +1,24 @@
-[Max Coins]
+[币最大]
 086E45D4 000F423F
 
-[Max Likes]
+[Likes最大]
 086E7250 0000270F
 
-[Max Red Stones (Battle)]
+[红石最大(战斗中)]
 086E62EC 00000063
 
-[Max Magic (Battle)]
+[魔力最大(战斗中)]
 086E724C 00000002
 
-[Max Health (Battle)]
+[生命值最大(战斗中)]
 086E7248 00000078
 
-[Invincible (Battle)]
+[无敌(战斗中)]
 288C162A 00000030
 
-[999,999 Coins]
+[999,999币]
 086E45D4 000F423F
 
-[All new]
+[获得所有new]
 084A2194 0000270F
 084A2198 0000270F
