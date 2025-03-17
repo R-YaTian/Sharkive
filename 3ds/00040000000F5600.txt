@@ -1,8 +1,8 @@
-[Infinite Grenade]
+[无限榴弹]
 1064537C 0000270F
 
-[Infinite Flamethrower Fuel]
+[无限火焰喷射器燃料]
 10645378 0000270F
 
-[Infinite Heavy Machine Gun Ammo]
+[无限重武器弹药]
 10645374 0000270F

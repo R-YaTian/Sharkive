@@ -1,5 +1,5 @@
-[Infinite Lives]
+[无限命]
 2888C206 00000008
 
-[Infinite Health]
+[无限生命值]
 2888C202 00000068
