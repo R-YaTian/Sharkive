@@ -1,8 +1,8 @@
-[65535 Gold]
+[65535金]
 09070624 0000FFFF
 
-[Max Money]
+[钱最大]
 19070F44 0098967F
 
-[Unlimited Watering Can]
+[无限量喷壶]
 29070F17 000000C8
