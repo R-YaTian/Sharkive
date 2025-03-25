@@ -1,14 +1,14 @@
-[99 Hints-Sol]
+[99 提示-纸牌]
 280D73D4 00000063
 
-[99 Hints-Mahj]
+[99 提示-麻将]
 280B68B0 00000063
 
-[99 Hints-Puzzle]
+[99 提示-解谜]
 280B6FB8 00000063
 
-[Sol-Time-MenuReset]
+[纸牌时间-菜单重置]
 080D73DC 00000000
 
-[Mahj-Time-MenuResets]
+[麻将时间-菜单重置]
 080BC120 00000000

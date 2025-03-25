@@ -1,88 +1,88 @@
-[Max exp. all characters]
+[全角色经验最大]
 C0000000 00000019
 00305130 000F423F
 DC000000 000000C8
 D1000000 00000000
 
-[All gears x21]
+[所有装备x21]
 C0000000 00000020
 002F4F3D 15151515
 DC000000 00000004
 D1000000 00000000
 
-[All accesory x21]
+[所有配件x21]
 C0000000 00000030
 002F503C 15151515
 DC000000 00000004
 D1000000 00000000
 
-[All items x21]
+[所有道具x21]
 C0000000 00000014
 002F513D 15151515
 DC000000 00000004
 D1000000 00000000
 
-[Max EXP Kogoro & Mii]
+[小吾郎&美依经验最大]
 00305130 000F423F
 
-[Max EXP Jin & Ling]
+[风间仁&凌晓雨经验最大]
 003051F8 000F423F
 
-[Max EXP Yuri & Estellise]
+[尤里&艾丝缇儿经验最大]
 003052C0 000F423F
 
-[Max EXP Soma & Alisa]
+[索玛&亚莉莎经验最大]
 00305388 000F423F
 
-[Max EXP Kite & BlackRose]
+[凯特&黑玫瑰经验最大]
 00305450 000F423F
 
-[Max EXP Reiji & Xiaomu]
+[有栖零儿&小牟经验最大]
 00305518 000F423F
 
-[Max EXP Haken & Kaguya]
+[哈肯&楠舞神夜经验最大]
 003055E0 000F423F
 
-[Max EXP KOS-MOS & T-elos]
+[KOS-MOS&T-elos经验最大 ]
 003056A8 000F423F
 
-[Max EXP Ryu & Ken]
+[隆&肯经验最大]
 00305770 000F423F
 
-[Max EXP Chun-Li & Morrigan]
+[春丽&莫莉卡经验最大]
 00305838 000F423F
 
-[Max EXP Dante & Demitri]
+[但丁&德米特里经验最大]
 00305900 000F423F
 
-[Max EXP Frank & Hsien-Ko]
+[法兰克&泪泪经验最大]
 003059C8 000F423F
 
-[Max EXP X & Zero]
+[X&Zero经验最大]
 00305A90 000F423F
 
-[Max EXP Chris & Jill]
+[克里斯&吉尔经验最大]
 00305B58 000F423F
 
-[Max EXP Akira & Pai]
+[结城晶&陈佩经验最大]
 00305C20 000F423F
 
-[Max EXP Ichiro & Sakura]
+[大神一郎&真宫寺樱经验最大]
 00305CE8 000F423F
 
-[Max EXP Gemini & Erica]
+[洁蜜妮&艾莉卡经验最大]
 00305DB0 000F423F
 
-[Max EXP Kurt & Riela]
+[克鲁特&莉艾拉经验最大]
 00305E78 000F423F
 
-[Max EXP Zephyr & Leanne]
+[杰法&琳贝尔经验最大]
 00305F40 000F423F
 
-[Max EXP Toma & Cyrille]
+[托马&西利尔经验最大]
 00306008 000F423F
 
-[All Characters Max HP]
+[全角色HP最大]
 C0000000 00000019
 00305134 000F423F
 00305138 000F423F
@@ -90,49 +90,49 @@ C0000000 00000019
 DC000000 000000C8
 D1000000 00000000
 
-[All Characters Max Str]
+[全角色力量最大]
 C0000000 00000019
 10305190 000003E7
 DC000000 000000C8
 D1000000 00000000
 
-[All Characters Max Def]
+[全角色防御最大]
 C0000000 00000019
 10305194 000003E7
 DC000000 000000C8
 D1000000 00000000
 
-[All Characters Max Spd]
+[全角色速度最大]
 C0000000 00000019
 10305198 000003E7
 DC000000 000000C8
 D1000000 00000000
 
-[All Characters Max Tec]
+[全角色技巧最大]
 C0000000 00000019
 1030519C 000003E7
 DC000000 000000C8
 D1000000 00000000
 
-[All Characters Max Move]
+[全角色移动最大]
 C0000000 00000019
 103051A0 00000063
 DC000000 000000C8
 D1000000 00000000
 
-[Kogoro/Mii Max HP]
+[小吾郎/美依HP最大]
 00305134 000F423F
 00305138 000F423F
 0030518C 000F423F
 
-[Kogoro/Mii Max Stats]
+[小吾郎/美依满属性]
 10305190 000003E7
 10305194 000003E7
 10305198 000003E7
 1030519C 000003E7
 203051A0 00000063
 
-[All Characters Max Stats]
+[全角色满属性]
 C0000000 00000019
 10305190 000003E7
 10305194 000003E7
@@ -142,528 +142,528 @@ C0000000 00000019
 DC000000 000000C8
 D1000000 00000000
 
-[Kogoro/Mii Max Str]
+[小吾郎/美依力量最大]
 10305190 000003E7
 
-[Kogoro/Mii Max Def]
+[小吾郎/美依防御最大]
 10305194 000003E7
 
-[Kogoro/Mii Max Spd]
+[小吾郎/美依速度最大]
 10305198 000003E7
 
-[Kogoro/Mii Max Tec]
+[小吾郎/美依技巧最大]
 1030519C 000003E7
 
-[Kogoro/Mii Max Move]
+[小吾郎/美依移动最大]
 203051A0 00000063
 
-[Jin/Ling Max HP]
+[风间仁/凌晓雨HP最大]
 003051FC 000F423F
 00305200 000F423F
 00305254 000F423F
 
-[Jin/Ling Max Stats]
+[风间仁/凌晓雨满属性]
 10305258 000003E7
 1030525C 000003E7
 10305260 000003E7
 10305264 000003E7
 20305268 00000063
 
-[Jin/Ling Max Str]
+[风间仁/凌晓雨力量最大]
 10305258 000003E7
 
-[Jin/Ling Max Def]
+[风间仁/凌晓雨防御最大]
 1030525C 000003E7
 
-[Jin/Ling Max Spd]
+[风间仁/凌晓雨速度最大]
 10305260 000003E7
 
-[Jin/Ling Max Tec]
+[风间仁/凌晓雨技巧最大]
 10305264 000003E7
 
-[Jin/Ling Max Move]
+[风间仁/凌晓雨移动最大]
 20305268 00000063
 
-[Yuri/Estellise Max HP]
+[尤里/艾丝缇儿HP最大]
 003052C4 000F423F
 003052C8 000F423F
 0030531C 000F423F
 
-[Yuri/Estellise Max Stats]
+[尤里/艾丝缇儿满属性]
 10305320 000003E7
 10305324 000003E7
 10305328 000003E7
 1030532C 000003E7
 20305330 00000063
 
-[Yuri/Estellise Max Str]
+[尤里/艾丝缇儿力量最大]
 10305320 000003E7
 
-[Yuri/Estellise Max Def]
+[尤里/艾丝缇儿防御最大]
 10305324 000003E7
 
-[Yuri/Estellise Max Spd]
+[尤里/艾丝缇儿速度最大]
 10305328 000003E7
 
-[Yuri/Estellise Max Tec]
+[尤里/艾丝缇儿技巧最大]
 1030532C 000003E7
 
-[Yuri/Estellise Max Move]
+[尤里/艾丝缇儿移动最大]
 20305330 00000063
 
-[Soma/Alisa Max HP]
+[索玛/亚莉莎HP最大]
 0030538C 000F423F
 00305390 000F423F
 003053E4 000F423F
 
-[Soma/Alisa Max Stats]
+[索玛/亚莉莎满属性]
 103053E8 000003E7
 103053EC 000003E7
 103053F0 000003E7
 103053F4 000003E7
 203053F8 00000063
 
-[Soma/Alisa Max Str]
+[索玛/亚莉莎力量最大]
 103053E8 000003E7
 
-[Soma/Alisa Max Def]
+[索玛/亚莉莎防御最大]
 103053EC 000003E7
 
-[Soma/Alisa Max Spd]
+[索玛/亚莉莎速度最大]
 103053F0 000003E7
 
-[Soma/Alisa Max Tec]
+[索玛/亚莉莎技巧最大]
 103053F4 000003E7
 
-[Soma/Alisa Max Move]
+[索玛/亚莉莎移动最大]
 203053F8 00000063
 
-[Kite/BlackRose Max HP]
+[凯特/黑玫瑰HP最大]
 00305454 000F423F
 00305458 000F423F
 003054AC 000F423F
 
-[Kite/BlackRose Max Stats]
+[凯特/黑玫瑰满属性]
 103054B0 000003E7
 103054B4 000003E7
 103054B8 000003E7
 103054BC 000003E7
 203054C0 00000063
 
-[Kite/BlackRose Max Str]
+[凯特/黑玫瑰力量最大]
 103054B0 000003E7
 
-[Kite/BlackRose Max Def]
+[凯特/黑玫瑰防御最大]
 103054B4 000003E7
 
-[Kite/BlackRose Max Spd]
+[凯特/黑玫瑰速度最大]
 103054B8 000003E7
 
-[Kite/BlackRose Max Tec]
+[凯特/黑玫瑰技巧最大]
 103054BC 000003E7
 
-[Kite/BlackRose Max Move]
+[凯特/黑玫瑰移动最大]
 203054C0 00000063
 
-[Reiji/Xiaomu Max HP]
+[有栖零儿/小牟HP最大]
 0030551C 000F423F
 00305520 000F423F
 00305574 000F423F
 
-[Reiji/Xiaomu Max Stats]
+[有栖零儿/小牟满属性]
 10305578 000003E7
 1030557C 000003E7
 10305580 000003E7
 10305584 000003E7
 20305588 00000063
 
-[Reiji/Xiaomu Max Str]
+[有栖零儿/小牟力量最大]
 10305578 000003E7
 
-[Reiji/Xiaomu Max Def]
+[有栖零儿/小牟防御最大]
 1030557C 000003E7
 
-[Reiji/Xiaomu Max Spd]
+[有栖零儿/小牟速度最大]
 10305580 000003E7
 
-[Reiji/Xiaomu Max Tec]
+[有栖零儿/小牟技巧最大]
 10305584 000003E7
 
-[Reiji/Xiaomu Max Move]
+[有栖零儿/小牟移动最大]
 20305588 00000063
 
-[Haken/Kaguya Max HP]
+[哈肯/楠舞神夜HP最大]
 003055E4 000F423F
 003055E8 000F423F
 0030563C 000F423F
 
-[Haken/Kaguya Max Stats]
+[哈肯/楠舞神夜满属性]
 10305640 000003E7
 10305644 000003E7
 10305648 000003E7
 1030564C 000003E7
 20305650 00000063
 
-[Haken/Kaguya Max Str]
+[哈肯/楠舞神夜力量最大]
 10305640 000003E7
 
-[Haken/Kaguya Max Def]
+[哈肯/楠舞神夜防御最大]
 10305644 000003E7
 
-[Haken/Kaguya Max Spd]
+[哈肯/楠舞神夜速度最大]
 10305648 000003E7
 
-[Haken/Kaguya Max Tec]
+[哈肯/楠舞神夜技巧最大]
 1030564C 000003E7
 
-[Haken/Kaguya Max Move]
+[哈肯/楠舞神夜移动最大]
 20305650 00000063
 
-[KOS-MOS/T-elos Max HP]
+[KOS-MOS/T-elosHP最大]
 003056AC 000F423F
 003056B0 000F423F
 00305704 000F423F
 
-[KOS-MOS/T-elos Max Stats]
+[KOS-MOS/T-elos满属性]
 10305708 000003E7
 1030570C 000003E7
 10305710 000003E7
 10305714 000003E7
 20305718 00000063
 
-[KOS-MOS/T-elos Max Str]
+[KOS-MOS/T-elos力量最大]
 10305708 000003E7
 
-[KOS-MOS/T-elos Max Def]
+[KOS-MOS/T-elos防御最大]
 1030570C 000003E7
 
-[KOS-MOS/T-elos Max Spd]
+[KOS-MOS/T-elos速度最大]
 10305710 000003E7
 
-[KOS-MOS/T-elos Max Tec]
+[KOS-MOS/T-elos技巧最大]
 10305714 000003E7
 
-[KOS-MOS/T-elos Max Move]
+[KOS-MOS/T-elos移动最大]
 20305718 00000063
 
-[Ryu/Ken Max Hp]
+[隆/肯HP最大]
 00305904 000F423F
 00305908 000F423F
 0030595C 000F423F
 
-[Ryu/Ken Max Stats]
+[隆/肯满属性]
 10305960 000003E7
 10305964 000003E7
 10305968 000003E7
 1030596C 000003E7
 20305970 00000063
 
-[Ryu/Ken Max Str]
+[隆/肯力量最大]
 10305960 000003E7
 
-[Ryu/Ken Max Def]
+[隆/肯防御最大]
 10305964 000003E7
 
-[Ryu/Ken Max Spd]
+[隆/肯速度最大]
 10305968 000003E7
 
-[Ryu/Ken Max Tec]
+[隆/肯技巧最大]
 1030596C 000003E7
 
-[Ryu/Ken Max Move]
+[隆/肯移动最大]
 20305970 00000063
 
-[Chun-Li/Morrigan Max HP]
+[春丽/莫莉卡HP最大]
 003059CC 000F423F
 003059D0 000F423F
 00305A24 000F423F
 
-[Chun-Li/Morrigan Max Stats]
+[春丽/莫莉卡满属性]
 10305A28 000003E7
 10305A2C 000003E7
 10305A30 000003E7
 10305A34 000003E7
 20305A38 00000063
 
-[Chun-Li/Morrigan Max Str]
+[春丽/莫莉卡力量最大]
 10305A28 000003E7
 
-[Chun-Li/Morrigan Max Def]
+[春丽/莫莉卡防御最大]
 10305A2C 000003E7
 
-[Chun-Li/Morrigan Max Spd]
+[春丽/莫莉卡速度最大]
 10305A30 000003E7
 
-[Chun-Li/Morrigan Max Tec]
+[春丽/莫莉卡技巧最大]
 10305A34 000003E7
 
-[Chun-Li/Morrigan Max Move]
+[春丽/莫莉卡移动最大]
 20305A38 00000063
 
-[Dante/Demitri Max HP]
+[但丁/德米特里HP最大]
 00305A94 000F423F
 00305A98 000F423F
 00305AEC 000F423F
 
-[Dante/Demitri Max Stats]
+[但丁/德米特里满属性]
 10305AF0 000003E7
 10305AF4 000003E7
 10305AF8 000003E7
 10305AFC 000003E7
 20305B00 00000063
 
-[Dante/Demitri Max Str]
+[但丁/德米特里力量最大]
 10305AF0 000003E7
 
-[Dante/Demitri Max Def]
+[但丁/德米特里防御最大]
 10305AF4 000003E7
 
-[Dante/Demitri Max Spd]
+[但丁/德米特里速度最大]
 10305AF8 000003E7
 
-[Dante/Demitri Max Tec]
+[但丁/德米特里技巧最大]
 10305AFC 000003E7
 
-[Dante/Demitri Max Move]
+[但丁/德米特里移动最大]
 20305B00 00000063
 
-[Frank/Hsien-Ko Max HP]
+[法兰克/泪泪HP最大]
 00305B5C 000F423F
 00305B60 000F423F
 00305BB4 000F423F
 
-[Frank/Hsien-Ko Max Str]
+[法兰克/泪泪力量最大]
 10305BB8 000003E7
 
-[Frank/Hsien-Ko Max Def]
+[法兰克/泪泪防御最大]
 10305BBC 000003E7
 
-[Frank/Hsien-Ko Max Spd]
+[法兰克/泪泪速度最大]
 10305BC0 000003E7
 
-[Frank/Hsien-Ko Max Tec]
+[法兰克/泪泪技巧最大]
 10305BC4 000003E7
 
-[Frank/Hsien-Ko Max Move]
+[法兰克/泪泪移动最大]
 20305BC8 00000063
 
-[X/Zero Max HP]
+[X/Zero HP最大]
 00305C24 000F423F
 00305C28 000F423F
 00305C7C 000F423F
 
-[X/Zero Max Stats]
+[X/Zero满属性]
 10305C80 000003E7
 10305C84 000003E7
 10305C88 000003E7
 10305C8C 000003E7
 20305C90 00000063
 
-[X/Zero Max Str]
+[X/Zero力量最大]
 10305C80 000003E7
 
-[X/Zero Max Def]
+[X/Zero防御最大]
 10305C84 000003E7
 
-[X/Zero Max Spd]
+[X/Zero速度最大]
 10305C88 000003E7
 
-[X/Zero Max Tec]
+[X/Zero技巧最大]
 10305C8C 000003E7
 
-[X/Zero Max Move]
+[X/Zero移动最大]
 20305C90 00000063
 
-[Chris/Jill Max HP]
+[克里斯/吉尔HP最大]
 00305CEC 000F423F
 00305CF0 000F423F
 00305D44 000F423F
 
-[Chris/Jill Max Stats]
+[克里斯/吉尔满属性]
 10305D48 000003E7
 10305D4C 000003E7
 10305D50 000003E7
 10305D54 000003E7
 20305D58 00000063
 
-[Chris/Jill Max Str]
+[克里斯/吉尔力量最大]
 10305D48 000003E7
 
-[Chris/Jill Max Def]
+[克里斯/吉尔防御最大]
 10305D4C 000003E7
 
-[Chris/Jill Max Spd]
+[克里斯/吉尔速度最大]
 10305D50 000003E7
 
-[Chris/Jill Max Tec]
+[克里斯/吉尔技巧最大]
 10305D54 000003E7
 
-[Chris/Jill Max Move]
+[克里斯/吉尔移动最大]
 20305D58 00000063
 
-[Akira/Pai Max HP]
+[结城晶/陈佩HP最大]
 003060D4 000F423F
 003060D8 000F423F
 0030612C 000F423F
 
-[Akira/Pai Max Stats]
+[结城晶/陈佩满属性]
 10306130 000003E7
 10306134 000003E7
 10306138 000003E7
 1030613C 000003E7
 20306140 00000063
 
-[Akira/Pai Max Str]
+[结城晶/陈佩力量最大]
 10306130 000003E7
 
-[Akira/Pai Max Def]
+[结城晶/陈佩防御最大]
 10306134 000003E7
 
-[Akira/Pai Max Spd]
+[结城晶/陈佩速度最大]
 10306138 000003E7
 
-[Akira/Pai Max Tec]
+[结城晶/陈佩技巧最大]
 1030613C 000003E7
 
-[Akira/Pai Max Move]
+[结城晶/陈佩移动最大]
 20306140 00000063
 
-[Ichiro/Sakura Max HP]
+[大神一郎/真宫寺樱HP最大]
 0030619C 000F423F
 003061A0 000F423F
 003061F4 000F423F
 
-[Ichiro/Sakura Max Stats]
+[大神一郎/真宫寺樱满属性]
 103061F8 000003E7
 103061FC 000003E7
 10306200 000003E7
 10306204 000003E7
 20306208 00000063
 
-[Ichiro/Sakura Max Str]
+[大神一郎/真宫寺樱力量最大]
 103061F8 000003E7
 
-[Ichiro/Sakura Max Def]
+[大神一郎/真宫寺樱防御最大]
 103061FC 000003E7
 
-[Ichiro/Sakura Max Spd]
+[大神一郎/真宫寺樱速度最大]
 10306200 000003E7
 
-[Ichiro/Sakura Max Tec]
+[大神一郎/真宫寺樱技巧最大]
 10306204 000003E7
 
-[Ichiro/Sakura Max Move]
+[大神一郎/真宫寺樱移动最大]
 10306208 00000063
 
-[Gemini/Erica Max HP]
+[洁蜜妮/艾莉卡HP最大]
 00306264 000F423F
 00306268 000F423F
 003062BC 000F423F
 
-[Gemini/Erica Max Stats]
+[洁蜜妮/艾莉卡满属性]
 103062C0 000003E7
 103062C4 000003E7
 103062C8 000003E7
 103062CC 000003E7
 203062D0 00000063
 
-[Gemini/Erica Max Str]
+[洁蜜妮/艾莉卡力量最大]
 103062C0 000003E7
 
-[Gemini/Erica Max Def]
+[洁蜜妮/艾莉卡防御最大]
 103062C4 000003E7
 
-[Gemini/Erica Max Spd]
+[洁蜜妮/艾莉卡速度最大]
 103062C8 000003E7
 
-[Gemini/Erica Max Tec]
+[洁蜜妮/艾莉卡技巧最大]
 103062CC 000003E7
 
-[Gemini/Erica Max Move]
+[洁蜜妮/艾莉卡移动最大]
 203062D0 00000063
 
-[Kurt/Riela Max HP]
+[克鲁特/莉艾拉HP最大]
 0030632C 000F423F
 00306330 000F423F
 00306384 000F423F
 
-[Kurt/Riela Max Stats]
+[克鲁特/莉艾拉满属性]
 10306388 000003E7
 1030638C 000003E7
 10306390 000003E7
 10306394 000003E7
 20306398 00000063
 
-[Kurt/Riela Max Str]
+[克鲁特/莉艾拉力量最大]
 10306388 000003E7
 
-[Kurt/Riela Max Def]
+[克鲁特/莉艾拉防御最大]
 1030638C 000003E7
 
-[Kurt/Riela Max Spd]
+[克鲁特/莉艾拉速度最大]
 10306390 000003E7
 
-[Kurt/Riela Max Tec]
+[克鲁特/莉艾拉技巧最大]
 10306394 000003E7
 
-[Kurt/Riela Max Move]
+[克鲁特/莉艾拉移动最大]
 20306398 00000063
 
-[Zephyr/Leanne Max Hp]
+[杰法/琳贝尔HP最大]
 003063F4 000F423F
 003063F8 000F423F
 0030644C 000F423F
 
-[Zephyr/Leanne Max Stats]
+[杰法/琳贝尔满属性]
 10306450 000003E7
 10306454 000003E7
 10306458 000003E7
 1030645C 000003E7
 20306460 00000063
 
-[Zephyr/Leanne Max Str]
+[杰法/琳贝尔力量最大]
 10306450 000003E7
 
-[Zephyr/Leanne Max Def]
+[杰法/琳贝尔防御最大]
 10306454 000003E7
 
-[Zephyr/Leanne Max Spd]
+[杰法/琳贝尔速度最大]
 10306458 000003E7
 
-[Zephyr/Leanne Max Tec]
+[杰法/琳贝尔技巧最大]
 1030645C 000003E7
 
-[Zephyr/Leanne Max Move]
+[杰法/琳贝尔移动最大]
 20306460 00000063
 
-[Toma/Cyrille Max HP]
+[托马/西利尔HP最大]
 003064BC 000F423F
 003064C0 000F423F
 00306514 000F423F
 
-[Toma/Cyrille Max Stats]
+[托马/西利尔满属性]
 10306518 000003E7
 1030651C 000003E7
 10306520 000003E7
 10306524 000003E7
 20306528 00000063
 
-[Toma/Cyrille Max Str]
+[托马/西利尔力量最大]
 10306518 000003E7
 
-[Toma/Cyrille Max Def]
+[托马/西利尔防御最大]
 1030651C 000003E7
 
-[Toma/Cyrille Max Spd]
+[托马/西利尔速度最大]
 10306520 000003E7
 
-[Toma/Cyrille Max Tec]
+[托马/西利尔技巧最大]
 10306524 000003E7
 
-[Toma/Cyrille Max Move]
+[托马/西利尔移动最大]
 20306528 00000063
 
-[Frank/Hsien-Ko Max Stats]
+[法兰克/泪泪满属性]
 10305BB8 000003E7
 10305BBC 000003E7
 10305BC0 000003E7

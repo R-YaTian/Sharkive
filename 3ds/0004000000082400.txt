@@ -1,360 +1,360 @@
-[Infinite Health]
+[血量无限]
 10A483A4 00000190
 
-[Max Health]
+[血量最大]
 10A483A6 00000190
 
-[Infinite Stamina]
+[体力无限]
 20A4876A 00000074
 20A4876B 00000074
 
-[Infinite Suppressor]
+[无限消音器]
 2091F2B8 0000001E
 2091F278 0000001E
 
-[Infinite Battery]
+[无限电池]
 20A4876E 0000002C
 
-[Have/Infinite Fork]
+[持有/无限叉子]
 1091C8B8 00000001
 
-[Have/Infinite Cig Spray]
+[持有/无限香烟喷气枪]
 1091C8F8 000003E7
 
-[Have/Infinite Handker]
+[持有/无限麻醉手帕]
 1091C938 000003E7
 
-[Have/Infinite Torch]
+[持有/无限火把]
 1091CCB8 00000001
 
-[Have/Infinite Grenades]
+[持有/无限手榴弹]
 1091CCF8 000003E7
 
-[Have/Infinite White Phosphorous Grenades]
+[持有/无限燃烧弹]
 1091CD38 000003E7
 
-[Have/Infinite Stun Grenades]
+[持有/无限闪光弹]
 1091CD78 000003E7
 
-[Have/Infinite Chaff Grenades]
+[持有/无限电子干扰弹]
 1091CDB8 000003E7
 
-[Have/Infinite Smoke Grenades]
+[持有/无限烟雾弹]
 1091CDF8 000003E7
 
-[Have/Infinite Magazines]
+[持有/无限杂志]
 1091CE38 000003E7
 
-[Have/Infinite Books]
+[持有/无限书本]
 1091CF38 000003E7
 
-[Have/Infinite Mouse Traps]
+[持有/无限捕鼠器]
 1091CF78 000003E7
 
-[HAVE/INFINITE AMMO/NO RELOAD Mk22]
+[有/无限弹/无需装填Mk22麻醉枪]
 1091C978 000003E7
 2091C97C 00000008
 
-[HAVE/INFINITE AMMO/NO RELOAD M1911A1]
+[有/无限弹/无需装填M1911A1手枪]
 1091C9B8 000003E7
 2091C9BC 00000008
 
-[HAVE/INFINITE AMMO/NO RELOAD Ez Gun]
+[有/无限弹/无需装填EZ麻醉枪]
 1091C9F8 00000001
 
-[HAVE/INFINITE AMMO/NO RELOAD Single Action Army]
+[有/无限弹/无需装填SAA左轮]
 1091CA38 000003E7
 2091CA3C 00000006
 
-[HAVE/INFINITE AMMO/NO RELOAD Patriot]
+[有/无限弹/无需装填爱国者]
 1091CA78 00000001
 
-[HAVE/INFINITE AMMO/NO RELOAD Scorpion]
+[有/无限弹/无需装填蝎式冲锋]
 1091CAB8 000003E7
 2091CABC 0000001E
 
-[HAVE/INFINITE AMMO/NO RELOAD XM16E1]
+[有/无限弹/无需装填XM16E1步枪]
 1091CAF8 000003E7
 2091CAFC 00000014
 
-[HAVE/INFINITE AMMO/NO RELOAD AK47]
+[有/无限弹/无需装填AK47步枪]
 1091CB38 000003E7
 2091CB3C 0000001E
 
-[HAVE/INFINITE AMMO/NO RELOAD M63]
+[有/无限弹/无需装填M63机枪]
 1091CB78 000003E7
 2091CB7C 00000064
 
-[HAVE/INFINITE AMMO/NO RELOAD Shotgun]
+[有/无限弹/无需装填霰弹枪]
 1091CBB8 000003E7
 2091CBBC 00000005
 
-[HAVE/INFINITE AMMO/NO RELOAD SVD]
+[有/无限弹/无需装填SVD狙击枪]
 1091CBF8 000003E7
 2091CBFC 0000000A
 
-[HAVE/INFINITE AMMO/NO RELOAD Mosin Nagant]
+[有/无限弹/无需装填莫辛纳甘]
 1091CC38 000003E7
 2091CC3C 0000000A
 
-[HAVE/INFINITE AMMO/NO RELOAD RPG-7]
+[有/无限弹/无需装填RPG-7榴弹]
 1091CC78 000003E7
 2091CC7C 00000001
 
-[HAVE/INFINITE AMMO/NO RELOAD TNT]
+[有/无限弹/无需装填TNT炸弹]
 1091CE78 000003E7
 
-[HAVE/INFINITE AMMO/NO RELOAD C3]
+[有/无限弹/无需装填C3炸弹]
 1091CEB8 000003E7
 
-[HAVE/INFINITE AMMO/NO RELOAD Claymore]
+[有/无限弹/无需装填阔剑地雷]
 1091CEF8 000003E7
 
-[Have/Infinite Life Medicine]
+[持有/无限回血药]
 1091E938 000003E7
 
-[Have/Infinite Pentazemin]
+[持有/无限稳定剂]
 1091E978 000003E7
 
-[Have/Infinite Death Pill]
+[持有/无限自杀药]
 1091E9B8 000003E7
 
-[Have/Infinite Bug Juice]
+[持有/无限杀虫剂]
 1091EEF8 000003E7
 
-[Have Thermal Goggles]
+[持有热成像仪]
 1091EAB8 00000001
 
-[Have Night Vision Goggles]
+[持有夜视镜]
 1091EAF8 00000001
 
-[Have Camera]
+[持有相机]
 1091EB38 00000001
 
-[Have Mine Detector]
+[持有地雷探测器]
 1091EBF8 00000001
 
-[Have Cardboard Box A]
+[持有纸板箱A]
 1091EC78 00000001
 
-[Have Cardboard Box B]
+[持有纸板箱B]
 1091ECB8 00000001
 
-[Have Cardboard Box C]
+[持有纸板箱C]
 1091ECF8 00000001
 
-[Have Crocodile Cap]
+[持有鳄鱼帽]
 1091ED78 00000001
 
-[Have Stealth Camouflage]
+[持有隐形迷彩]
 1091EEB8 00000001
 
-[Have Key A]
+[持有钥匙A]
 1091EDB8 00000001
 
-[Have Key B]
+[持有钥匙B]
 1091EDF8 00000001
 
-[Have Key C]
+[持有钥匙C]
 1091EE38 00000001
 
-[Infinite Ointment]
+[无限药膏]
 2091F078 00000063
 
-[Infinite Splint]
+[无限夹板]
 2091F0B8 00000063
 
-[Infinite Disinfect]
+[无限消毒剂]
 2091F0F8 00000063
 
-[Infinite Styptic]
+[无限止血剂]
 2091F138 00000063
 
-[Infinite Bandage]
+[无限绷带]
 2091F178 00000063
 
-[Infinite Suture Kit]
+[无限针线包]
 2091F1B8 00000063
 
-[Infinite Serum]
+[无限血清]
 2091EF78 00000063
 
-[Infinite Antidote]
+[无限解毒剂]
 2091EFB8 00000063
 
-[Infinite C Med]
+[无限C药包]
 2091EFF8 00000063
 
-[Infinite D Med]
+[无限D药包]
 2091F038 00000063
 
-[Have Chocco Chip UNIFORM]
+[持有巧克力片制服]
 1091F438 00000001
 
-[Have Splitter UNIFORM]
+[持有分解者制服]
 1091F478 00000001
 
-[Have Raindrop UNIFORM]
+[持有雨滴制服]
 1091F4B8 00000001
 
-[Have Water UNIFORM]
+[持有水形制服]
 1091f538 00000001
 
-[Have Snow UNIFORM]
+[持有雪地制服]
 1091F5B8 00000001
 
-[Have Sneaking Suite]
+[持有潜行套装]
 1091F638 00000001
 
-[Have Scientist UNIFORM]
+[持有科学家制服]
 1091F678 00000001
 
-[Have Officer UNIFORM]
+[持有军官制服]
 1091F6B8 00000001
 
-[Have Maintenance Crew Uniform]
+[持有后勤制服]
 1091F6F8 00000001
 
-[Have Tuxedo]
+[持有燕尾服]
 1091F738 00000001
 
-[Have Hornet Stripe UNIFORM]
+[持有大黄蜂条纹制服]
 1091F778 00000001
 
-[Have Spider UNIFORM]
+[持有蜘蛛制服]
 1091F7B8 00000001
 
-[Have Moss UNIFORM]
+[持有苔藓制服]
 1091f7f8 00000001
 
-[Have Fire UNIFORM]
+[持有火焰制服]
 1091F838 00000001
 
-[Have Spirit UNIFORM]
+[持有精神制服]
 1091F878 00000001
 
-[Have Cold War UNIFORM]
+[持有冷战制服]
 1091F8B8 00000001
 
-[Have Snake UNIFORM]
+[持有蛇制服]
 1091F8F8 00000001
 
-[Have Fruit UNIFORM]
+[持有水果制服]
 1091F938 00000001
 
-[Have Desert Tiger UNIFORM]
+[持有沙漠之虎制服]
 1091f978 00000001
 
-[Have DPM UNIFORM]
+[持有DPM制服]
 1091F9B8 00000001
 
-[Have Flecktarn UNIFORM]
+[持有弗莱克塔恩制服]
 1091F9F8 00000001
 
-[Have Auscam Desert UNIFORM]
+[持有奥斯坎沙漠制服]
 1091FA38 00000001
 
-[Have Animals UNIFORM]
+[持有动物制服]
 1091FA78 00000001
 
-[Have Fly UNIFORM]
+[持有飞行制服]
 1091fab8 00000001
 
-[Have Banana UNIFORM]
+[持有香蕉制服]
 1091FAF8 00000001
 
-[Have Grenade UNIFORM]
+[持有手雷制服]
 1091FB78 00000001
 
-[Have Water FACE]
+[持有水形面彩]
 1091FCB8 00000001
 
-[Have Desert FACE]
+[持有沙漠面彩]
 1091FCF8 00000001
 
-[Have Snow FACE]
+[持有雪地面彩]
 1091FD78 00000001
 
-[Have Kabuki FACE]
+[持有歌舞伎面彩]
 1091FDB8 00000001
 
-[Have Zombie FACE]
+[持有僵尸面彩]
 1091FDF8 00000001
 
-[Have Oyama FACE]
+[持有歌舞姬面彩]
 1091FE38 00000001
 
-[Have Green FACE]
+[持有绿色面彩]
 1091FEB8 00000001
 
-[Have Brown FACE]
+[持有棕色面彩]
 1091FEF8 00000001
 
-[Have Infinity FACE]
+[持有无限面彩]
 1091FF38 00000001
 
-[Have Soviet FACE]
+[持有苏联国旗面彩]
 1091FF78 00000001
 
-[Have UK FACE]
+[持有英国国旗面彩]
 1091FFB8 00000001
 
-[Have France FACE]
+[持有法国国旗面彩]
 1091FFF8 00000001
 
-[Have Germany FACE]
+[持有德国国旗面彩]
 10920038 00000001
 
-[Have Italia FACE]
+[持有意大利国旗面彩]
 10920078 00000001
 
-[Have Spain FACE]
+[持有西班牙国旗面彩]
 109200B8 00000001
 
-[Have Sweden FACE]
+[持有瑞典国旗面彩]
 109200F8 00000001
 
-[Have Japan FACE]
+[持有日本国旗面彩]
 10920138 00000001
 
-[Have USA FACE]
+[持有美国国旗面彩]
 10920178 00000001
 
-[0 Saves]
+[0 保存次数]
 20A47D2E 00000000
 20A47514 00000000
 
-[0 Playtime]
+[0 游戏时间]
 20A47D45 00000000
 20A47511 00000000
 
-[0 Continues]
+[0 续关次数]
 20A47D2C 00000000
 20A47516 00000000
 
-[0 Alerts]
+[0 警报次数]
 20A47D30 00000000
 20A47518 00000000
 
-[0 People Killed]
+[0 人数击杀]
 20A47D32 00000000
 20A4751A 00000000
 
-[0 Serious Injuries]
+[0 严重受伤]
 20A47D38 00000000
 20A4751C 00000000
 
-[0 Damage Taken]
+[0 受到伤害]
 20A47D3C 00000000
 20A47520 00000000
 
-[0 Medicines Used]
+[0 使用药物]
 20A47522 00000000
 
-[Max Plants/Animals Captured]
+[捕获植物/动物数量最大]
 10A47D37 000000E7
 180039D8 0000270F
 
-[0 Meals Eaten]
+[0 使用食物]
 20A47D3E 00000000
 20A4752C 00000000
