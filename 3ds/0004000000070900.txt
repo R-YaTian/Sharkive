@@ -1,40 +1,40 @@
-[Max Life Level]
+[生命等级最大]
 2886CC81 00000008
 
-[Max Magic Level]
+[魔法等级最大]
 2886CC80 00000008
 
-[Max Attack Level]
+[攻击等级最大]
 2886CC7F 00000008
 
-[Have All Items]
+[拥有全部道具]
 2886CC8D 00000001
 1886CC8E 00000101
 0886CC90 01010101
 2886CC94 00000001
 
-[Have All Magic Spells]
+[拥有全部魔法咒语]
 2886CC83 00000001
 0886CC84 01010101
 1886CC88 00000101
 2886CC8A 00000001
 
-[Infinite MP]
+[无限MP]
 2886CC7C 0000007F
 
-[Infinite Keys]
+[无限钥匙]
 2886CC9B 00000008
 
-[Infinite Lives]
+[无限命数]
 2886CC08 00000008
 
-[Infinite Health]
+[无限血量]
 2886CC7B 0000007F
 
-[Invincible]
+[无敌]
 2886CA20 00000010
 
-[Jump in Midair]
+[空中跳跃]
 D3000000 08000000
 20801550 000000F5
 20801555 000000A9
@@ -44,12 +44,12 @@ D3000000 08000000
 20801559 00000005
 D2000000 00000000
 
-[Hit Anywhere(In any Palace entrace if you get stuck press up to get unstuck)]
+[全屏攻击(若在入口卡住按上)]
 D3000000 08000000
 2081E6C4 00000050
 D2000000 00000000
 
-[Faster Dialogue]
+[对话显示更快]
 D3000000 08000000
 2080F6DE 00000000
 D2000000 00000000

@@ -1,2 +1,2 @@
-[Max Coins]
+[金币最大]
 089E8AB4 6FFFFFFF
