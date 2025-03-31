@@ -62,7 +62,7 @@ if __name__ == '__main__':
     if len(sys.argv) == 1:
         args = ["3ds", "switch"]
     if not args:
-        input("Proper argument options are '3ds' or 'switch', or nothing to compile both. Press 'enter' or close this dialog to exit.")
+        print("Proper argument options are '3ds' or 'switch', or nothing to compile both.")
         exit(0)
     for arg in args:
         compile_db(arg)
