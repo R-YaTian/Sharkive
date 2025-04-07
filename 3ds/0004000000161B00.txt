@@ -1,22 +1,22 @@
-[Infinite Health]
+[血量无限]
 20291750 00000000
 
-[Infinite Pistol Ammo]
+[手枪子弹无限]
 20291753 000000FE
 20291754 000000FE
 
-[Infinite Shotgun Ammo]
+[霰弹枪子弹无限]
 20291757 000000FE
 20291758 000000FE
 
-[Infinite Semi Automatic Ammo]
+[半自动枪子弹无限]
 20291759 000000FE
 2029175A 000000FE
 
-[Infinite Revolver Ammo]
+[左轮手枪子弹无限]
 20219755 000000FE
 20219756 000000FE
 
-[Infinite Sniper Rifle Ammo]
+[狙击步枪子弹无限]
 2029175B 000000FE
 2029175C 000000FE

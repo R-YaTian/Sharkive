@@ -1,21 +1,21 @@
-[All Upgrade Points x999]
+[所有升级点数x999]
 1838DED8 000003E7
 1838DEE8 000003E7
 1838DEF8 000003E7
 1838DF08 000003E7
 1838DF18 000003E7
 
-[Red Upgrade Points x999]
+[红升级点数x999]
 1838DED8 000003E7
 
-[Blue Upgrade Points x999]
+[蓝升级点数x999]
 1838DEE8 000003E7
 
-[Green Upgrade Points x999]
+[绿升级点数x999]
 1838DEF8 000003E7
 
-[Purple Upgrade Points x999]
+[紫升级点数x999]
 1838DF08 000003E7
 
-[Yellow Upgrade Points x999]
+[黄升级点数x999]
 1838DF18 000003E7

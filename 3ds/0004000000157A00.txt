@@ -1,8 +1,8 @@
-[Infinite Credits]
+[投币无限]
 28C3F799 00000009
 
-[Infinite Missiles]
+[导弹无限]
 28C404AC 00000064
 
-[Infinite Lives]
+[命数无限]
 28C40026 00000009
