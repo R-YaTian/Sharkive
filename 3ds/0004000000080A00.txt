@@ -1,33 +1,29 @@
-[Infinite Bombs]
+[炸弹无限]
 207EA12C 00000003
 
-[Infinite Lives]
+[命数无限]
 2065BEF0 00000063
 
-[999 Hits]
+[999 连击]
 10658354 000003E7
 
-[Have Hyper Laser]
+[拥有超级激光]
 207C8AF0 00000002
 
-[Falco Slippy Peppy Infinite HP]
+[法尔科&史利比&派比HP无限]
 007C8A3C 0000017F
 007C8A40 0000017F
 007C8A44 0000017F
 
-[Max Hits]
+[连击数最大]
 00658354 000003E7
 
-[Infinite Bombs]
+[炸弹无限(备用)]
 007EA12C 00000003
 
-[Have Hyper Laser]
+[拥有超级激光(备用)]
 007C8AF0 00000002
 
-[Infinite Lives]
+[命数无限(备用)]
 0065BEF0 00000063
 
-[Peppy Slippy Falco Infinite HP]
-007C8A3C 0000017F
-007C8A40 0000017F
-007C8A44 0000017F
