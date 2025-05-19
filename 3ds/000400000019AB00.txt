@@ -1,21 +1,21 @@
-[Infinite Stamina]
+[体力无限]
 28001E4E 00000080
 
-[Infinite Crank-A-Kai Spins]
+[无限使用妖怪扭蛋机]
 086FBC04 0000000A
 
-[Infinite Crank-a-Kai Spins]
+[无限使用妖怪扭蛋机v2]
 086FBC04 00000003
 
-[Always Befriend Yo-kai - Food]
+[始终和妖怪成为朋友 - 食物]
 00624B10 E1A00000
 00624B20 E3A00000
 00624B24 E1A00000
 
-[Always Befriend Yo-kai]
+[始终和妖怪成为朋友]
 00624B30 E1A00000
 
-[All Items x99 - See Notes!]
+[所有道具x99]
 086F8658 00000063
 086F8668 00000063
 086F8678 00000063
@@ -536,27 +536,27 @@
 086FA8A0 00000063
 086FA8B4 00000063
 
-[999'999 JP]
+[999999 JP点]
 086F7BE4 000F423F
 
-[9999,99 Cash]
+[9999.99 现金]
 086F7BE0 000F423F
 
-[Get Thornyan AND Baddinyan]
+[获得尖刺喵和不良喵]
 286FBC40 00000000
 
-[Re-enable Infinite Tunnel]
+[重新启用无限隧道]
 286FBBF0 00000000
 
-[Rematch Slimamander]
+[重新对战三头怪蛇]
 286FBBF0 00000000
 286FBB4D 00000000
 
-[Rematch Goldy Bones]
+[重新对战伽沙骷髅G]
 286FBBEF 00000000
 
-[Unlimited donations]
+[无限捐赠]
 286FBBEE 00000012
 
-[Rub golden egg again]
+[再次擦金蛋]
 286FBBEE 00000010

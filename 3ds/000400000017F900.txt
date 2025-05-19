@@ -1,7 +1,7 @@
-[Max Studs]
+[零件最大]
 00540AD0 05F5E0FF
 
-[Infinite Health - 3 Hearts]
+[血量无限 - 3颗心]
 6050DF30 00000000
 B050DF30 00000000
 0000012C 00000064
