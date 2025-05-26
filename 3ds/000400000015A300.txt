@@ -1,5 +1,5 @@
-[Balance]
+[始终平衡]
 308FE610 000F423F
 
-[Experience]
+[经验最大]
 308FE618 000F423F

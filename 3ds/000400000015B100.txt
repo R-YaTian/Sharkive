@@ -1,15 +1,15 @@
-[Infinite Ammo-Rifle]
+[步枪弹药无限]
 D3000000 30000000
 006F7A2C 012C0001
 
-[Infinite Ammo Gauge-Rifle]
+[步枪弹药槽无限]
 D3000000 30000000
 006F7A30 00640018
 
-[Infinite Ammo-Pistol-NotWithRifle]
+[手枪弹药无限(非步枪)]
 D3000000 30000000
 066F7A20 001A0001
 
-[Infinite Ammo Gauge-Pistol-NotWithRifle]
+[手枪弹药槽无限(非步枪)]
 D3000000 30000000
 006F7A24 0032000C
