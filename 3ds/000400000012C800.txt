@@ -1,20 +1,20 @@
-[Infinite Red Blocks]
+[红色方块无限]
 204818FF 00000041
 
-[Infinite Yellow Spring]
+[黄色弹簧无限]
 20481E50 00000009
 
-[Infinite Purple Spring]
+[紫色弹簧无限]
 20481EDC 00000009
 
-[Infinite Purple Conveyor]
+[紫色传送带无限]
 2048186F 00000041
 
-[Infinite Green Pipe]
+[绿色管道无限]
 20481ADC 00000009
 
-[Infinite Ladder]
+[梯子无限]
 2048198B 00000041
 
-[Infinite Purple Blocks]
+[紫色方块无限]
 20481A48 00000009
