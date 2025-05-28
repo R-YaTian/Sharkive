@@ -1,11 +1,11 @@
-[Zero Misses]
+[零失误]
 101D95F4 00000000
 
-[Max Streak]
+[连胜最大]
 001D95F8 000003E6
 
-[Max Score]
+[分数最高]
 001D95E8 000F423F
 
-[Infinite Health]
+[血量无限]
 101D9604 00000064

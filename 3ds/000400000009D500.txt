@@ -1,13 +1,13 @@
-[Max Money]
+[金钱最大]
 002E47E1 E6FFFFFF
 
-[Inf NOS-Boost (Gauge will occasionally go down, but you will get it right back)]
+[NOS增强无限(下降后马上恢复)]
 602CC674 00000000
 B02CC674 00000000
 00000AA4 42C80000
 D2000000 00000000
 
-[Inf Flash Ammo]
+[闪光弹无限]
 681272FC 00000000
 B81272FC 00000000
 20000C34 00000063

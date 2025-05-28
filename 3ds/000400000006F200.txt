@@ -1,17 +1,17 @@
-[Infinite Keys]
+[钥匙无限]
 0884CCCE 00000009
 
-[Max Infinite HP]
+[HP最大无限]
 0884CCCF 000000FF
 0884CCD0 000000FF
 
-[Infinite Bombs]
+[炸弹无限]
 0884CCB8 00000009
 
-[Infinite Blue Candle Use]
+[蓝蜡烛无限使用]
 0884CB73 00000000
 
-[Push L+UP Freeze Enemy L+DOWN Unfreeze]
+[L+↑:定住敌人 L+↓:解除]
 DD000000 00000240
 0884CCCC 00000001
 D0000000 00000000
@@ -19,16 +19,16 @@ DD000000 00000280
 0884CCCC 00000000
 D0000000 00000000
 
-[Max Rupees]
+[卢比最大]
 0884CCCD 000000FF
 
-[Reset rupees]
+[重置卢比]
 0884CCCD 00000000
 
-[Invincible]
+[无敌]
 0884CB50 000000FF
 
-[Have Map and Compass]
+[拥有地图和指南针]
 0884CCC7 0000003F
 0884CCC8 0000013F
 0884CCCA 00000001

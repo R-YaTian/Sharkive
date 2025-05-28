@@ -1,11 +1,11 @@
-[1001 Lives (Story Mode)]
+[1001命 (故事模式)]
 102085B8 000003E9
 
-[9 Lives (Tower of Nannar)]
+[9命 (南纳尔塔)]
 28054150 00000009
 
-[101 Lives (Lost Levels)]
+[101命 (失落的关卡)]
 202085BC 00000065
 
-[1,000,001 Coins (Conseil's Duty Free)]
+[1000001钱币 (康塞尔免税店)]
 002085D4 000F4241

@@ -1,12 +1,12 @@
-[Push R MoonJump Straight Up Only]
+[按R月球跳(仅限垂直向上)]
 DD000000 00000100
 2884C6A0 00000080
 D2000000 00000000
 
-[Infinite Missiles]
+[导弹无限]
 DB000000 0884FD52
 D8000000 0884FD51
 D2000000 00000000
 
-[Infinite Health]
+[血量无限]
 1884C49E 00006990
