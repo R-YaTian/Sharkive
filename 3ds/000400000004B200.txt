@@ -1,35 +1,35 @@
-[Max/Inf Money]
+[金钱最大/无限]
 0038C4C8 000F423F
 
-[Max/Inf vegetables]
+[蔬菜最大/无限]
 2038C4C0 000000FF
 
-[Max/Inf fruits]
+[水果最大/无限]
 2038C4C1 000000FF
 
-[Max/Inf insects]
+[昆虫最大/无限]
 2038C4C2 000000FF
 
-[Max/Inf lizards]
+[蜥蜴最大/无限]
 2038C4C3 000000FF
 
-[Max/Inf flesh]
+[肉类最大/无限]
 2038C4C4 000000FF
 
-[Max/Inf fish]
+[鱼类最大/无限]
 2038C4C5 000000FF
 
-[Max/Inf Cereals]
+[谷物最大/无限]
 2038C4C6 000000FF
 
-[Max/Inf Bambus]
+[竹子最大/无限]
 2038C4C7 000000FF
 
-[Max/Inf all food]
+[所有食物最大/无限]
 0038C4C0 FFFFFFFF
 0038C4C4 FFFFFFFF
 
-[Namechanger]
+[名字更改]
 0038C4A4 11112222
 0038C4A8 33334444
 0038C4AC 55556666
@@ -38,7 +38,7 @@
 0038C4B8 BBBBCCCC
 1038C4BC 0000DDDD
 
-[Zoonamechanger]
+[动物园名字更改]
 0038C480 11112222
 0038C484 33334444
 0038C48C 55556666
@@ -48,7 +48,7 @@
 0038C49C DDDDEEEE
 1038C4A0 0000FFFF
 
-[Add 1000 Money (Press L)]
+[加1000钱 (按L)]
 DD000000 00000200
 D9000000 0038C4C8
 DD000000 00000200
