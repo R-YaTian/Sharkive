@@ -1,4 +1,4 @@
-[Clear Entire Board(Hold Y and continue to hold until piece is placed.)]
+[清空面板(按住Y直到方块放好)]
 D3000000 00000000
 00241B74 0A000004
 DD000000 00000800

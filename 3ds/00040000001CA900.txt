@@ -1,69 +1,69 @@
-[Max Money v1.1]
+[金钱最大 v1.1]
 0040565C 000F423F
 
-[Instant Message v1.1]
+[信息高速显示 v1.1]
 002735D8 E1A00000
 
-[Walk speed multiplier x1 v1.1]
+[走路速度倍数x1 v1.1]
 0021EB48 3F800000
 
-[Walk speed multiplier x1.5 v1.1]
+[走路速度倍数x1.5 v1.1]
 0021EB48 3FC00000
 
-[Walk speed multiplier x2 v1.1]
+[走路速度倍数x2 v1.1]
 0021EB48 40000000
 
-[Walk speed multiplier x2.5 v1.1]
+[走路速度倍数x2.5 v1.1]
 0021EB48 40200000
 
-[Walk speed multiplier x3 v1.1]
+[走路速度倍数x3 v1.1]
 0021EB48 40400000
 
-[(Mario & Luigi)Infinite air jump v1.1]
+[马力欧&路易吉无限空中跳 v1.1]
 002C4270 EAFFFFFA
 002C42EC EAFFFFF9
 
-[Lucky or Critical Hit v1.1]
+[幸运/会心一击 v1.1]
 00230E60 EA000005
 
-[Inf HP v1.1]
+[HP无限 v1.1]
 00291034 E3A01201
 
-[Instant Kill v1.1]
+[一击必杀 v1.1]
 002950A4 E3E01201
 
-[BP Cost0(Inf BP) v1.1]
+[BP耗费0(无限BP) v1.1]
 001E2410 E3A06000
 
-[Get Experience Multiplier After Battle x2 v1.1]
+[战斗后经验倍数x2 v1.1]
 00295ED0 E3A02002
 00295ED4 E0010291
 00295ED8 E1A00000
 00295EDC E1510000
 00295EE0 A1A01000
 
-[Get Experience Multiplier After Battle x5 v1.1]
+[战斗后经验倍数x5 v1.1]
 00295ED0 E3A02005
 00295ED4 E0010291
 00295ED8 E1A00000
 00295EDC E1510000
 00295EE0 A1A01000
 
-[Get Experience Multiplier After Battle x10 v1.1]
+[战斗后经验倍数x10 v1.1]
 00295ED0 E3A0200A
 00295ED4 E0010291
 00295ED8 E1A00000
 00295EDC E1510000
 00295EE0 A1A01000
 
-[Get Experience Multiplier After Battle x100 v1.1]
+[战斗后经验倍数x100 v1.1]
 00295ED0 E3A02064
 00295ED4 E0010291
 00295ED8 E1A00000
 00295EDC E1510000
 00295EE0 A1A01000
 
-[Exist Item x90 v1.1 (Need Enter Item Menu Once)]
+[已有道具x90 v1.1(进1次道具栏)]
 00387FD0 E92D000C
 00387FD4 E7D02001
 00387FD8 E3520000
@@ -74,7 +74,7 @@
 00387FFC E12FFF1E
 003622AC EA009747
 
-[All Item x90 v1.1 (Need Enter Item Menu Once)]
+[所有道具x90 v1.1(进1次道具栏)]
 00387FD0 E92D000C
 00387FD4 E7D02001
 00387FD8 E3520000
@@ -85,7 +85,7 @@
 00387FFC E12FFF1E
 003622AC EA009747
 
-[Always Pre-emptive Strikes(Mario & Luigi:Stomping) v1.1]
+[马力欧&路易吉抢先攻击:踩v1.1]
 00387FA8 E5DD1030
 00387FAC E3510000
 00387FB0 13510001
@@ -94,7 +94,7 @@
 00387FBC E12FFF1E
 00302850 EB0215D4
 
-[Always Pre-emptive Strikes(Mario & Luigi:Hammer) v1.1]
+[马力欧&路易吉抢先攻击:锤v1.1]
 00387FA8 E5DD1030
 00387FAC E3510000
 00387FB0 13510001
@@ -103,7 +103,7 @@
 00387FBC E12FFF1E
 00302850 EB0215D4
 
-[Always Pre-emptive Strikes(Bowser:Punch) v1.1]
+[酷霸王始终抢先攻击:拳 v1.1]
 00387F80 E59D0048
 00387F84 E5DD1030
 00387F88 E3510002
@@ -111,7 +111,7 @@
 00387F90 E12FFF1E
 0030284C EB0215CB
 
-[Always Pre-emptive Strikes(Bowser:Flame Breath) v1.1]
+[酷霸王始终抢先攻击:喷火 v1.1]
 00387F80 E59D0048
 00387F84 E5DD1030
 00387F88 E3510002
@@ -119,7 +119,7 @@
 00387F90 E12FFF1E
 0030284C EB0215CB
 
-[Level-Up Bonus slot will turn slowly v1.1]
+[升级奖励槽缓慢转动 v1.1]
 00387F5C E59D6014
 00387F60 E59F7010
 00387F64 E1560007
@@ -131,7 +131,7 @@
 00387F7C 3DCCCCCD
 0026FCE8 EB04609B
 
-[No Encounter v1.1]
+[不遇敌 v1.1]
 00387F10 E92D4006
 00387F14 E59F1020
 00387F18 E5972000

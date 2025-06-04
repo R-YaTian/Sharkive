@@ -1,16 +1,16 @@
-[Max apples coin1]
+[苹果币1最大]
 108605E0 0000C350
 
-[Max melons coin2]
+[甜瓜币2最大]
 208605E2 000000FF
 
-[Max Level]
+[等级最大]
 20860624 0000000A
 
-[Unlock All Suits]
+[解锁所有服装]
 008602C8 11111111
 
-[Unlock All Gears]
+[解锁所有装备]
 008605C0 FFFFFFFF
 008605C4 FFFFFFFF
 008605C8 FFFFFFFF
@@ -20,9 +20,9 @@
 008605D8 FFFFFFFF
 008605D0 FFFFFFFF
 
-[Unlock All Characters in Quick Games]
+[快速游戏里解锁全角色]
 0085FF80 FFFFFFFF
 0085FF84 FFFFFFFF
 
-[Unlock items in Info]
+[信息页中解锁全道具]
 008605F4 FFFFFFFF

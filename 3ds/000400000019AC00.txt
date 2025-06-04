@@ -1,161 +1,161 @@
-[Infinite Stamina]
+[体力无限]
 28001E4E 00000080
 
-[Holy Exporb x99]
+[神之经验宝玉x99]
 086F8928 00000063
 
-[Soul Secrets x99]
+[必杀秘传书x99]
 086F8C28 00000063
 
-[Top Techniques x99]
+[术之秘传书x99]
 058726AC 00000063
 086F8DE8 00000063
 
-[Hidden Hits x99]
+[攻之秘传书x99]
 086F8A48 00000063
 
-[Chocobar x99]
+[巧克力条x99]
 086F8818 00000063
 
-[Infinite Crank-A-Kai Spins]
+[无限使用妖怪扭蛋机]
 086FBC04 0000000A
 
-[Mighty Medicine x99]
+[深奥的中药x99]
 086F9008 00000063
 
-[Platinum Doll x99]
+[白金芥子娃娃x99]
 086F8FF8 00000063
 
-[Amazing Milk]
+[绝品牛奶x99]
 086F8758 00000063
 
-[Xl Exporb]
+[大经验宝玉x99]
 086F8CE8 00000063
 
-[Fish Bait]
+[优良鱼饵x99]
 086F88A8 00000063
 
-[Black Syrup]
+[超级黑蜜x99]
 086F8AF8 00000063
 
-[Golden Doll]
+[黄金芥子娃娃x99]
 086F88F8 00000063
 
-[Reset Cash]
+[重置现金]
 086F7BE0 00000000
 
-[Infinite Cash x9999.99]
+[现金无限x9999.99]
 086F7BE0 000F423F
 
-[Red Coin x99]
+[红硬币x99]
 086F8E48 00000063
 
-[Yellow Coin x99]
+[黄硬币x99]
 086F8C58 00000063
 
-[Orange Coin x99]
+[橙硬币x99]
 086F8C38 00000063
 
-[Pink Coin x99]
+[粉硬币x99]
 086F8DB8 00000063
 
-[Green Coin x99]
+[绿硬币x99]
 086F8C98 00000063
 
-[Blue Coin x99]
+[蓝硬币x99]
 086F8F88 00000063
 
-[Light-Blue Coin x99]
+[淡蓝硬币x99]
 086F8898 00000063
 
-[VoltXtreme x99]
+[妖怪神水x99]
 086F9018 00000063
 
-[Fatty Tuna Sushi x99]
+[大寿司x99]
 086F8F58 00000063
 
-[Crab Omelet x99]
+[芙蓉蟹x99]
 086F8DA8 00000063
 
-[Matsutake x99]
+[松茸x99]
 086F8AA8 00000063
 
-[Choice Tuna x99]
+[极品金枪鱼x99]
 086F8C68 00000063
 
-[Veggie Curry x99]
+[蔬菜咖喱x99]
 086F8F68 00000063
 
-[Ourple Coin x99]
+[紫硬币x99]
 086F8C48 00000063
 
-[Five-Star Coin x99]
+[五星硬币x99]
 086F8948 00000063
 
-[Special Coin x99]
+[特殊硬币x99]
 086F8958 00000063
 
-[Yo Mystery Coin x99]
+[心跳硬币(妖)x99]
 086F8968 00000063
 
-[Kai Mystery Coin x99]
+[心跳硬币(怪)x99]
 086F8978 00000063
 
-[Sum Mystery Coin x99]
+[心跳硬币(召)x99]
 086F8988 00000063
 
-[Mon Mystery Coin x99]
+[心跳硬币(唤)x99]
 086F8998 00000063
 
-[Flower Excitement Coin x99]
+[激动硬币(花)x99]
 086F89A8 00000063
 
-[Bird Excitement Coin x99]
+[激动硬币(鸟)x99]
 086F89B8 00000063
 
-[Wind Excitement Coin x99]
+[激动硬币(风)x99]
 086F89C8 00000063
 
-[Moon Excitement Coin x99]
+[激动硬币(月)x99]
 086F89D8 00000063
 
-[Glitzy Coin x99]
+[闪耀硬币x99]
 086F8DD8 00000063
 
-[Traveler's Coin North x99]
+[本地硬币(北)x99]
 086F8A38 00000063
 
-[Traveler's Coin Northeast x99]
+[本地硬币(东北)x99]
 086F8AB8 00000063
 
-[Traveler's Coin East x99]
+[本地硬币(东)x99]
 086F8B38 00000063
 
-[Traveler's Coin Central x99]
+[本地硬币(中)x99]
 086F8E68 00000063
 
-[Traveler's Coin West x99]
+[本地硬币(西)x99]
 086F8E78 00000063
 
-[Traveler's Coin Mountain x99]
+[本地硬币(山)x99]
 086F8E88 00000063
 
-[Traveler's Coin South x99]
+[本地硬币(南)x99]
 086F8E58 00000063
 
-[Traveler's Coin Midwest x99]
+[本地硬币(中西)x99]
 086F8E38 00000063
 
-[Traveler's Coin Island x99]
+[本地硬币(岛)x99]
 086F8E08 00000063
 
-[9999,99 Cash]
+[999999 现金]
 086F7BE0 000F423F
 
-[999'999 JP]
+[999999 JP点]
 086F7BE4 000F423F
 
-[All Items x99 - See Notes!]
+[所有道具x99]
 086F8658 00000063
 086F8668 00000063
 086F8678 00000063
@@ -676,35 +676,35 @@
 086FA8A0 00000063
 086FA8B4 00000063
 
-[Infinite Crank-a-Kai Spins]
+[无限使用妖怪扭蛋机v2]
 086FBC04 00000003
 
-[Always Befriend Yo-kai]
+[始终和妖怪成为朋友]
 00624B30 E1A00000
 
-[Always Befriend Yo-kai - Food]
+[始终和妖怪成为朋友 - 食物]
 00624B10 E1A00000
 00624B20 E3A00000
 00624B24 E1A00000
 
-[Get Thornyan AND Baddinyan]
+[获得尖刺喵和不良喵]
 286FBC40 00000000
 
-[Re-enable Infinite Tunnel]
+[重新启用无限隧道]
 286FBBF0 00000000
 
-[Rematch SV Snaggerjag]
+[重新对战赛财宝丸]
 286FBBF0 00000000
 286FBB4E 00000080
 
-[Rematch Goldy Bones]
+[重新对战伽沙骷髅G]
 286FBBEF 00000000
 
-[Unlimited donations]
+[无限捐赠]
 286FBBEE 00000012
 
-[Rub golden egg again]
+[再次擦金蛋]
 286FBBEE 00000010
 
-[Rematch Tarantutor]
+[重新对战鬼蜘蛛]
 287018E0 0000000C

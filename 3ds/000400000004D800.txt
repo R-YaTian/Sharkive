@@ -1,5 +1,5 @@
-[Initial BP for upgrade]
+[升级时初始化BP点]
 202E1B18 00000063
 
-[Max Money]
+[金钱最大]
 002F36F0 05F5E0FF

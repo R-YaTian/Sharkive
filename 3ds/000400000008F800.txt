@@ -1,82 +1,82 @@
-[Max/Inf Ruppees]
+[卢比最大/无限]
 10596018 000003E7
 
-[Max/Inf Health]
+[心心最大/无限]
 00596012 01400140
 
-[Max Health (Press L)]
+[心心最大 (按L)]
 DD000000 00000200
 10596012 00000140
 
-[Refill Health (Press R)]
+[补充心心 (按R)]
 DD000000 00000100
 10596014 00000140
 
-[Unlock Small Magicbar (Press L)]
+[解锁小魔法槽 (按L)]
 DD000000 00000200
 2059601E 00000060
 
-[Unlock Large Magicbar (Press L)]
+[解锁大魔法槽 (按L)]
 DD000000 00000200
 20596020 00000001
 
-[Max/Inf Magic]
+[魔力最大/无限]
 20596020 00000001
 20596017 00000060
 
-[Refill Small Magicbar (Press R)]
+[补充小魔法槽 (按R)]
 DD000000 00000100
 20596017 00000030
 
-[Refill Large Magicbar (Press R)]
+[补充大魔法槽 (按R)]
 DD000000 00000100
 20596017 00000060
 
-[Namechanger]
+[名字修改]
 00595FEC 11112222
 00595FF0 33334444
 00595FF4 55556666
 00595FF8 77778888
 
-[Unlock Enhanced Defense]
+[解锁增强防御]
 20596021 00000001
 
-[3 Heartpieces (Press L)]
+[3 心之碎片 (按L)]
 DD000000 00000200
 2059608F 00000030
 
-[100 golden Skulltulas]
+[100 黄金骷髅蜘蛛]
 205960B8 00000064
 
-[Max/Inf Deku Sticks]
+[德库棒最大/无限]
 20596076 00000063
 
-[Max/Inf Deku Nuts]
+[德库果最大/无限]
 20596077 00000063
 
-[Max/Inf slingshot munition]
+[弹弓弹药最大/无限]
 2059607C 00000063
 
-[Max/Inf Bombs]
+[炸弹最大/无限]
 20596078 00000063
 
-[Max/Inf Arrows]
+[弓箭最大/无限]
 20596079 00000063
 
-[Max/Inf Bombchuus]
+[炸弹鼠最大/无限]
 2059607E 00000063
 
-[Unlock all shields/swords/suits]
+[解锁所有盾/剑/套装]
 10596086 00000777
 
-[Unlock all stones/stone of wisdom/Gerudopass]
+[解锁全石头/智慧石/格鲁多证]
 2059608E 0000007C
 
-[Unlock largest quiver/largest bomb bag/best powerglove/golden scale]
+[大箭筒/大弹袋/金手套/金鳞片]
 00596088 000184D8
 
-[Unlock all medallions]
+[解锁所有奖章]
 2059608C 0000003F
 
-[Reset Amount of Rupees]
+[重置卢比数量]
 10596018 00000000

@@ -1,17 +1,17 @@
-[Max Precision Points]
+[精确点最大]
 2038FF30 00000063
 
-[Infinite Whetstones]
+[磨刀石无限]
 2890DF70 00000005
 
-[Infinite Throwing Daggers]
+[投掷匕首无限]
 2890DF30 0000000A
 
-[Infinite Frogs]
+[青蛙无限]
 2890DEF0 00000005
 
-[Infinite Sakura Rice Cakes]
+[樱花年糕无限]
 2890DEB0 00000005
 
-[Max Gold]
+[金币无限]
 08909EE8 000003E7

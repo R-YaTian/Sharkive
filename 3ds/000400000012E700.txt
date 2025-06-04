@@ -1,20 +1,20 @@
-[Infinite Moun Pistol Ammo]
+[介子手枪弹药无限]
 202F4018 0000000F
 
-[Infinite Quanta Rifle Ammo]
+[量子步枪弹药无限]
 202F4016 0000000F
 
-[Infinite Remote Access Droid Ammo]
+[远程遥控机器人弹药无限]
 202F4015 0000000F
 
-[Infinite Fermion Sniper Ammo]
+[费米子狙击枪弹药无限]
 202F401D 0000000F
 
-[Infinite Lepton Spread Ammo]
+[轻子霰弹枪弹药无限]
 202F401B 0000000F
 
-[Infinite Oxid Cannon Ammo]
+[氧化榴弹炮弹药无限]
 202F401F 0000000F
 
-[Infinite Seeker Pods Ammo]
+[探索者发射器弹药无限]
 202F4021 0000000F

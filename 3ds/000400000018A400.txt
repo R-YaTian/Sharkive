@@ -1,19 +1,19 @@
-[Challenge always 3 lifes (train life)]
+[挑战始终3次机会(火车次数)]
 28878001 00000003
 
-[perfect tries always 3]
+[完美尝试数始终为3]
 2835ED2B 00000003
 
-[99 gold turnips (infinite)]
+[99 金萝卜(无限)]
 289270EC 00000063
 
-[Slot1 - All Songs 100 Points*]
+[存档1-所有歌曲100分]
 C0000000 00000035
 0835E254 27102710
 DC000000 00000004
 D2000000 00000000
 
-[Slot1 – Unlock all Songs/Perfect Rank/Art/Items]
+[存档1–全歌曲/优评/美术/道具]
 C0000000 00000025
 0835DCD4 06060606
 0835EE00 03030303

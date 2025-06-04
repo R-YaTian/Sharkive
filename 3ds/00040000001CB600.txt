@@ -1,8 +1,8 @@
-[Unlimited Stamina]
+[无限耐力]
 18183F30 000003E8
 
-[Unlimited Battery]
+[无限电量]
 18183F2C 00004DCB
 
-[Unlimited Health]
+[无限生命]
 18183F24 000003E8

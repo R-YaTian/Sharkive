@@ -1,4 +1,4 @@
-[Drop Piece to Clear Lines(The piece must be dropped on the left side of the board.)]
+[方块下落消行(需放面板左侧)]
 D3000000 08000000
 2080216E 00000000
 D2000000 00000000
