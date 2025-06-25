@@ -1,6 +1,6 @@
 # Sharkive
 
-Gateshark cheat code database for Luma3DS 9.1+ and Atmosphere 0.8.5+.
+Gateshark cheat code database (chs and eng) for Luma3DS 9.1+.
 
 ## Database
 
@@ -18,18 +18,11 @@ Sharkive relies on a manually populated database to download and apply new cheat
 2. Select "Cheats"
 3. Press `A` on each of the cheats you want to use in order to activate them.
 
-**Switch via Atmosphère**:<br>
-Unlike other Switch cheat engines/methodologies, Checkpoint only stores the cheats you selected to your console memory. That means cheats can only be managed inside Checkpoint.
-1. Select the cheats you want to use in Checkpoint
-2. Launch the game the cheats are for
-3. Confirm your cheats are running. If not, make sure that `atmosphere!dmnt_cheats_enabled_by_default` is enabled in Atmosphère settings.
-
 **Q:** Help! This cheat doesn't work.<br>
 **Q:** Why does the name turn red when I try to use this cheat?<br>
 **A:** There can be a few causes for cheats not working:<br>
 1. Make sure you're using the latest version of your system's preferred custom firmware (CFW)
     - **3DS**: [Luma3DS](https://github.com/AuroraWright/Luma3DS/releases/latest).
-    - **Switch**: [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere/releases/latest).
 2. Cheats are all made for a particular version (game update) and/or revision of a game and will likely not work on others. Make sure the cheat(s) you are trying to use are for the version and/or revision you are playing.
 3. If after trying the above you still can't get the cheat(s) to work, please [report them](https://github.com/FlagBrew/Sharkive/issues/new) so we can either relabel them for their proper version/revision or remove them.
 
@@ -40,7 +33,7 @@ Unlike other Switch cheat engines/methodologies, Checkpoint only stores the chea
 **A:** No. DS games run in a separate firmware, so Luma's Rosalina (and by extension, the cheat engine) cannot interact with them. You can look into [NitroHax](https://github.com/chishm/nitrohax) for DS cheats.
 
 **Q:** Some cheats have a star (`*`) next to their name in Rosalina. Why?<br>
-**A:** This means that the cheat makes use of a key combo. If the cheat name doesn't mention the key combo you'll have to look up the code and translate the line(s) starting `DD000000` to figure out what the key combo is. You can use the bot on [our Discord server](https://discord.gg/bGKEyfY) in #bot-channel (via the `.cheatkeys` command) to do this if you would like. Please note that you will need to follow the same instructions in the rules for accessing our Community channels to be able to see any message history there.
+**A:** This means that the cheat makes use of a key combo. If the cheat name doesn't mention the key combo you'll have to look up the code and translate the line(s) starting `DD000000` to figure out what the key combo is. You can use the bot on [FlagBrew's Discord server](https://discord.gg/bGKEyfY) in #bot-channel (via the `.cheatkeys` command) to do this if you would like. Please note that you will need to follow the same instructions in the rules for accessing our Community channels to be able to see any message history there.
 
 **Q:** Some cheat names are cut off in the list. Can you make the full name display? Can I read the full name somewhere?<br>
 **A:** Cheat names getting cut off is due to Luma, not Sharkive. Check [the wiki page](https://github.com/FlagBrew/Sharkive/wiki/3DS-games-in-the-database) for titles in the database to find easy links to the cheat files you want to see.
@@ -52,11 +45,11 @@ Follow these steps:<br>
 2. `git clone` or download the repository
 3. Open a command prompt/terminal to your copy of the repo
 4. Run the command for your OS:
-    - **Windows:** `py -3 joiner.py <console>`
-    - **Mac / Linux:** `python3 joiner.py <console>`
-5. Rename `<console>.json` to `cheats.json` and place on your SD card in the `/<console>/Checkpoint` folder<br>
+    - **Windows:** `py -3 joiner.py <language_code>`
+    - **Mac / Linux:** `python3 joiner.py <language_code>`
+5. Rename `3ds_<language_code>.json` to `cheats.json` and place on your SD card in the `/3ds/Checkpoint` folder<br>
 
-<sub>**Note**: `<console>` refers to the console you're using, `3ds` or `switch`. Pass no arguments to the script to build both 3ds and Switch databases.</sub><br>
+<sub>**Note**: `<language_code>` refers to the cheats language you want to use, `chs` or `eng`. Pass no arguments to the script to build both chs and eng databases.</sub><br>
 
 ## License
 
@@ -71,3 +64,15 @@ All the cheats submitters and reporters.
 All Luma3DS contributors.
 
 All Atmosphere contributors.
+
+### Simplified Chinese Translation Credits
+
+##### 以下排名不分先后 (简中金手指库成功完成离不开他们的努力):
+
+[realworld (天天地地人人)](https://github.com/realkkk)  
+[R-YaTian](https://github.com/R-YaTian)  
+[James-Makoto](https://github.com/James-Makoto)  
+[badluckw](https://github.com/badluckw)  
+[mzy1996](https://github.com/mzy1996)  
+[rcyggdra](https://github.com/rcyggdra)  
+[wokann](https://github.com/wokann)
