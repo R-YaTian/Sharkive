@@ -2,7 +2,14 @@
 import os
 import sys
 import json
-import bz2
+import threading
+import zipfile
+try:
+    import zopfli
+except ImportError:
+    print("Python: zopfli library not found. Please install zopflipy.")
+    print("\tYou can install it using: pip install zopflipy")
+    raise SystemExit(1)
 
 
 def compile_db(db_language_code):
@@ -32,11 +39,20 @@ def compile_db(db_language_code):
                 else:
                     db[titleid][selectedCheat].append(line)
 
-    compressed = bz2.compress(str.encode(json.dumps(db)))
-    with open(os.path.join('build', '3ds_' + db_language_code + '.json'), 'w') as f:
-        f.write(json.dumps(db))
-    with open(os.path.join('build', '3ds_' + db_language_code + '.json.bz2'), 'wb') as f:
-        f.write(compressed)
+    json_str = json.dumps(db)
+    json_data = json_str.encode()
+    json_path = os.path.join('build', '3ds_' + db_language_code + '.json')
+    zip_path = json_path + '.zip'
+
+    with open(json_path, 'w', encoding='utf-8') as f:
+        f.write(json_str)
+
+    with zopfli.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as f:
+        f.writestr(os.path.basename(json_path), json_data)
+
+def compile_and_print(arg):
+    compile_db(arg)
+    print(f"Wrote compiled cheat code DB to 'build/3ds_{arg}.json'.")
 
 
 if __name__ == '__main__':
@@ -46,6 +62,13 @@ if __name__ == '__main__':
     if not args:
         print("Proper argument options are 'chs' or 'eng', or nothing to compile both.")
         exit(0)
+
+    threads = []
+
     for arg in args:
-        compile_db(arg)
-        print(f"Wrote compiled cheat code DB to 'build/3ds_{arg}.json'.")
+        t = threading.Thread(target=compile_and_print, args=(arg,))
+        threads.append(t)
+        t.start()
+
+    for t in threads:
+        t.join()
