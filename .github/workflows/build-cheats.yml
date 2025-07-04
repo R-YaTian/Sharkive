@@ -19,6 +19,9 @@ jobs:
       uses: actions/setup-python@v3
       with:
         python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        pip install zopflipy
     - name: "Build Cheats"
       run: |
         printf "\n\n" | python joiner.py
