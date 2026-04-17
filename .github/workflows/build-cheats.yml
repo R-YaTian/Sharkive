@@ -27,7 +27,7 @@ jobs:
       with:
         name: Sharkive Switch DB ${{ github.event.head_commit.timestamp }}
         tag_name: run-${{ github.run_number }}-${{ github.sha }}
-        generate_release_notes: true
+        body: ${{ github.event.head_commit.message }}
         draft: false
         prerelease: false
         files: |
