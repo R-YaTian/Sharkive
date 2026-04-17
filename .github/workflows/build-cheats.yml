@@ -2,7 +2,8 @@ name: Build Cheats
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "nx" ]
+  workflow_dispatch:
 
 jobs:
   build:
@@ -13,9 +14,9 @@ jobs:
         python-version: ["3.11"]
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@master
     - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v6.2.0
       with:
         python-version: ${{ matrix.python-version }}
     - name: "Build Cheats"
@@ -24,10 +25,9 @@ jobs:
     - name: "Upload Cheats"
       uses: softprops/action-gh-release@v1
       with:
-        name: Sharkive DB ${{ github.event.repository.updated_at}}
+        name: Sharkive Switch DB ${{ github.event.head_commit.timestamp }}
         tag_name: run-${{ github.run_number }}-${{ github.sha }}
         draft: false
         prerelease: false
         files: |
-          build/3ds.json
           build/switch.json
