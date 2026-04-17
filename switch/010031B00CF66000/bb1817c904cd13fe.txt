@@ -1,0 +1,11 @@
+[1p invicible]
+04000000 01837780 D65F03C0
+
+[Bombs unlimited]
+04100000 AB209224 4058C000
+
+[Credits unlimited]
+04100000 AB2091D4 4058C000
+
+[Lives unlimited]
+01000000 0289C480 00000063
