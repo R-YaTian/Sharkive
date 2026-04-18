@@ -1,0 +1,16 @@
+[Have Money Max]
+01000000 01FD2B8E 0000001F
+
+[Have Card Ticket no decrease]
+01000000 02013D0A 0000001F
+
+[Have No damage (Press Button Right-Stick)]
+80000020
+04000000 01627318 2A1F03E9
+20000000
+
+[Have max Attack (Press Button Left-Stick)]
+80000010
+04000000 01627318 D503201F
+20000000
+

@@ -1,0 +1,48 @@
+[MP]
+04000000 0541B054 A9427BFD
+
+[OFF]
+04000000 0541B054 B9024689
+
+[Money Millions Multiplier]
+04000000 05497184 2B015109
+
+[Life Magic Limit Increased Some Basic Attributes Increased Enemy Damage Reduced]
+04000000 0541692C 0F20A400
+04000000 05416D34 0F20A400
+04000000 0541C550 0B145135
+04000000 0541692C 0F20A400
+04000000 0541692C 0F20A400
+04000000 0541692C 0F20A400
+
+[2x our damage]
+04000000 0541692C 0F20A400
+
+[Enemy physical damage becomes 1]
+04000000 0541692C 0F20A400
+
+[Enemy spell damage becomes]
+04000000 0541692C 0F20A400
+04000000 0541692C 0F20A400
+
+[Lucky 29]
+04000000 05416B98 0F20A400
+
+[Exp 2x]
+04000000 0541B57C 0B150908
+
+[Exp 4x]
+04000000 0541B57C 0B151108
+
+[Level 99 after experience gained]
+04000000 0541B57C 0B155108
+
+[No reduction in the use of props and materials for trafficking]
+04000000 053ED7E0 35FFF797
+
+[The use of props and materials to maximize rather than minimize trafficking]
+04000000 053ED7E0 B9000334
+
+[Classic Mode Bloodless]
+04000000 050521F0 91090280
+

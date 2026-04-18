@@ -1,0 +1,3 @@
+[Dynite Ore pop-up in inventory 999]
+04100000 45067D90 01F38644
+

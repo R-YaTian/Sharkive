@@ -1,0 +1,27 @@
+[Inf Coins in Village]
+021F0000 BFB3A070 0001869F
+
+[Inf Coins Upper Left Player]
+021F0000 BFB3AD1C 000003E7
+
+[0 Coins Upper Left Player]
+021F0000 BFB3AD1C 00000000
+
+[Inf Coins Upper Right Player]
+021F0000 BFB3AD2E 000003E7
+
+[0 Coins Upper Right Player]
+021F0000 BFB3AD2E 00000000
+
+[Inf Coins Bottom Left Player]
+021F0000 BFB3AD40 000003E7
+
+[0 Coin Bottom Left Player]
+021F0000 BFB3AD40 00000000
+
+[Inf Coins Bottom Right Player]
+021F0000 BFB3AD52 000003E7
+
+[0 Coins Bottom Right Player]
+021F0000 BFB3AD52 00000000
+

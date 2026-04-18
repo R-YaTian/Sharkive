@@ -36,7 +36,7 @@ def main():
     print("="*50)
     print("Step 1: Download contents_complete.zip")
     print("="*50)
-    download_file_to_tmp("https://github.com/HamletDuFromage/switch-cheats-db/releases/latest/download/contents_complete.zip", "contents_complete.zip")
+    download_file_to_tmp("https://github.com/sthetix/nx-cheats-db/releases/latest/download/contents_complete.zip", "contents_complete.zip")
 
     # Extract contents_complete.zip
     print("="*50)
