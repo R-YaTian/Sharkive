@@ -107,7 +107,7 @@ def main():
                 warnings.append(msg)
                 continue
 
-            dest = item / file_or_dir.name
+            dest = item / file_or_dir.name.lower()
             # If target already exists, delete it first
             if dest.exists():
                 if dest.is_dir():
@@ -116,7 +116,7 @@ def main():
                     dest.unlink()
             # Move file
             shutil.move(str(file_or_dir), str(dest))
-            print(f"  Moved: {file_or_dir.name}")
+            print(f"  Moved: {file_or_dir.name.lower()}")
 
         # Delete cheats folder
         shutil.rmtree(cheats_dir)

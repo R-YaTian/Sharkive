@@ -32,7 +32,11 @@ def compile_db(db_console_name):
                             selectedCheat = line[1:-1]
                             db[titleid][buildid][selectedCheat] = []
                         else:
-                            db[titleid][buildid][selectedCheat].append(line)
+                            try:
+                                db[titleid][buildid][selectedCheat].append(line)
+                            except KeyError:
+                                print(f"Error: Failed to process cheat file - titleid: {titleid}, buildid: {buildid}")
+                                break
     compressed = bz2.compress(str.encode(json.dumps(db)))
     with open(os.path.join('build', db_console_name + '.json'), 'w') as f:
         f.write(json.dumps(db, indent=2))
