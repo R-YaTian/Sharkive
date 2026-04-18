@@ -22,11 +22,9 @@ def get_proxy_config():
 
     return proxies if proxies else None
 
-def download_cheats_json():
-    """Download cheats.json file"""
-    url = "https://github.com/blawar/titledb/raw/refs/heads/master/cheats.json"
+def download_file_to_tmp(url, dest_name):
     output_dir = Path("tmp")
-    output_file = output_dir / "cheats.json"
+    output_file = output_dir / dest_name
 
     # Create tmp folder if it doesn't exist
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -227,7 +225,7 @@ def main():
     print("="*50)
     print("Step 1: Download cheats.json")
     print("="*50)
-    download_cheats_json()
+    download_file_to_tmp("https://github.com/blawar/titledb/raw/refs/heads/master/cheats.json", "cheats.json")
 
     print("\n" + "="*50)
     print("Step 2: Parse cheats.json and create structure")
