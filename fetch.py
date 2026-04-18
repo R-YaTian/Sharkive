@@ -4,6 +4,12 @@ import requests
 import shutil
 from pathlib import Path
 
+# Cheat buildid blacklist
+CHEAT_BUILDID_BLACKLIST = [
+    "448e0f0e1c1cbade",
+    "9e47489ddafa3530"
+]
+
 def get_proxy_config():
     """Get proxy configuration from environment variables"""
     proxies = {}
@@ -94,6 +100,11 @@ def parse_cheats_json():
 
             # Traverse all sub-objects
             for cheat_key, cheat_object in title_object.items():
+                # Check if cheat key is in blacklist
+                if cheat_key.lower() in CHEAT_BUILDID_BLACKLIST:
+                    warnings.append(f"Cheat key '{cheat_key}' under title '{title_key}' is in blacklist, skipped")
+                    continue
+
                 # Check if cheat key length is 16 characters
                 if len(cheat_key) != 16:
                     warnings.append(f"Cheat key '{cheat_key}' under title '{title_key}' length is not 16 characters, skipped")

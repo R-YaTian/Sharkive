@@ -6,7 +6,6 @@
 
 [1p hitkill]
 04000000 0157A35C D503201F
-THEY ARE NOT ALL ENEMIES
 
 [R power user recover hp+TTD+speed move 10x]
 04000000 014E3D70 1E249008

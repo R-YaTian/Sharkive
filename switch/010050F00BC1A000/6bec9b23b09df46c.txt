@@ -1,27 +1,3 @@
-[- Jill Slot 1 Left > Object Name]
-011F0000 1E7A00E4 000000XX
-
-[- Jill Slot 1 Right > Object Name]
-011F0000 1E7A00EC 000000XX
-
-[- Jill Slot 2 Left > Object Name]
-011F0000 1E7A00F4 000000XX
-
-[- Jill Slot 2 Right > Object Name]
-011F0000 1E7A00FC 000000XX
-
-[- Jill Slot 3 Left > Object Name]
-011F0000 1E7A0104 000000XX
-
-[- Jill Slot 3 Right > Object Name]
-011F0000 1E7A010C 000000XX
-
-[- Jill Slot 4 Left > Object Name]
-011F0000 1E7A0114 000000XX
-
-[- Jill Slot 4 Right > Object Name]
-011F0000 1E7A011C 000000XX
-
 [1P INVICIBLE]
 04000000 001A7050 D65F03C0
 

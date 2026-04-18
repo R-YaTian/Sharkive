@@ -3,7 +3,7 @@ import shutil
 import requests
 import zipfile
 from pathlib import Path
-from fetch import download_file_to_tmp, merge_switch, check_switch, cleanup_tmp
+from fetch import download_file_to_tmp, merge_switch, check_switch, cleanup_tmp, CHEAT_BUILDID_BLACKLIST
 
 def extract_contents_zip():
     """Extract contents_complete.zip to tmp folder"""
@@ -100,6 +100,12 @@ def main():
         for file_or_dir in cheats_dir.iterdir():
             # Get filename without extension
             name_without_ext = file_or_dir.stem
+
+            # Check if filename (without extension) is in blacklist
+            if name_without_ext.lower() in CHEAT_BUILDID_BLACKLIST:
+                msg = f"  Warning: File '{file_or_dir.name}' (without extension) is in blacklist, not moved"
+                warnings.append(msg)
+                continue
 
             # Check if filename (without extension) length is 16 characters
             if len(name_without_ext) != 16:
