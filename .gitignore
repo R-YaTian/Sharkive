@@ -2,3 +2,4 @@ build/*.json
 build/*.bz2
 tmp/
 __pycache__
+titles.zip
