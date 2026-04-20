@@ -2,6 +2,7 @@ import os
 import json
 import requests
 import shutil
+import stat
 from pathlib import Path
 
 # Cheat buildid blacklist
@@ -218,10 +219,14 @@ def cleanup_tmp():
     """Clean up the tmp folder and all its contents"""
     tmp_dir = Path("tmp")
 
+    def handle_remove_readonly(func, path, exc):
+        os.chmod(path, stat.S_IWRITE)
+        func(path)
+
     try:
         if tmp_dir.exists():
             print(f"Cleaning up: {tmp_dir}")
-            shutil.rmtree(tmp_dir)
+            shutil.rmtree(tmp_dir, onerror=handle_remove_readonly)
             print(f"✓ Cleanup completed")
             return True
         else:

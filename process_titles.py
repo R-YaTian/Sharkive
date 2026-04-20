@@ -2,6 +2,7 @@ import os
 import shutil
 import zipfile
 from pathlib import Path
+from fetch import cleanup_tmp
 
 def main():
     # Get the project root directory
@@ -78,8 +79,7 @@ def main():
     print(f"✓ Compressed file size: {zip_size / (1024*1024):.2f} MB")
 
     # Delete tmp folder
-    shutil.rmtree(tmp_dir)
-    print(f"✓ Deleted tmp directory")
+    cleanup_tmp()
 
     print("\nProcessing completed!")
 
