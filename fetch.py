@@ -1,6 +1,5 @@
 import os
 import json
-import requests
 import shutil
 import stat
 from pathlib import Path
@@ -30,6 +29,7 @@ def get_proxy_config():
     return proxies if proxies else None
 
 def download_file_to_tmp(url, dest_name):
+    import requests
     output_dir = Path("tmp")
     output_file = output_dir / dest_name
 
