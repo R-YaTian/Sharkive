@@ -1,0 +1,31 @@
+[God Mode]
+040B0000 0242E290 D65F03C0
+
+[quick gain exp Player]
+040B0000 026FC818 0B14414A
+
+[quick gain love exp]
+040B0000 022A3564 0B144108
+
+[quick gain exp Spirit]
+040B0000 026FFA24 0B174337
+
+[quick gain exp Spirit Skill]
+040B0000 026FFB64 0B152929
+
+[Gold max after get some]
+040B0000 026FC8CC 3B9AC9FF
+040B0000 026FC8E8 18FFFF29
+
+[Gold not decrease]
+040B0000 026FC928 51000129
+
+[Items 999 if get some - sometimes must have at lease one to work]
+040B0000 027024EC 52807CF4
+
+[Items 999 if spent some]
+040B0000 02702C64 52807CF4
+
+[Items not decrease - use only one - this or 999 at spent]
+040B0000 02702C64 71000154
+

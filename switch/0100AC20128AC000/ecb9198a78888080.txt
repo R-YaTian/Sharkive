@@ -1,0 +1,246 @@
+[Max Gold]
+040F0000 06C04B88 0098967F
+
+[Max Stars]
+040F0000 06C04E54 00630063
+
+[-- Battle Codes --]
+20000000
+
+[Inf. Health]
+12050000 06D80AE0 0000032C
+020F0000 06C6CBF0 000003E7
+020F0000 06C6D000 000003E7
+020F0000 06C6D410 000003E7
+20000000
+
+[Inf. Stamina]
+12050000 06D80AE0 0000032C
+020F0000 06C6CCD6 00000046
+020F0000 06C6D0E6 00000046
+020F0000 06C6D4F6 00000046
+20000000
+
+[Always Have 99% Hit %]
+12050000 06D80AE0 0000032C
+080F0000 06C6CB26 00000063 00630063
+20000000
+
+[One-Hit Kill]
+12050000 06D80AE0 0000032C
+020F0000 06C6D820 00000001
+020F0000 06C6DC30 00000001
+020F0000 06C6E040 00000001
+020F0000 06C6E450 00000001
+020F0000 06C6E860 00000001
+20000000
+
+[-- Item Codes --]
+20000000
+
+[Have Most Elements]
+400A0000 00000000 06C04940
+40010000 00000000 00000001
+300F0000 000000C0
+A21A1300
+72010000 00000001
+310F0000
+
+[Max Elements]
+30010000 00000018
+080A0000 06C04AC0 63636363 63636363
+780A0000 00000008
+31010000
+
+[-- Misc Codes --]
+20000000
+
+[Character 1 Modifier]
+010F0000 06C04B8C 000000
+
+[Character 2 Modifier]
+010F0000 06C04B8D 000000
+
+[Character 3 Modifier]
+010F0000 06C04B8E 000000
+
+[-- Character Codes --]
+20000000
+
+[-- Serge Codes --]
+20000000
+
+[Max HP]
+020F0000 06C01DBE 000003E7
+
+[Inf. HP]
+020F0000 06C01E60 000003E7
+
+[Max STR]
+010F0000 06C01DC0 000000FF
+
+[Max RES]
+010F0000 06C01DC1 000000FF
+
+[Max ACC]
+010F0000 06C01DC2 000000FF
+
+[Max AGL]
+010F0000 06C01DC3 000000FF
+
+[Max MAG]
+010F0000 06C01DC4 000000FF
+
+[Max M.RES]
+010F0000 06C01DC5 000000FF
+
+[Max Stamina Recovery]
+010F0000 06C01DC7 000000FF
+
+[Equipped Weapon]
+020F0000 06C01DC8 000000
+
+[Equipped Armor]
+020F0000 06C01DCA 000000
+
+[Equipped Accessory Slot 1]
+020F0000 06C01DCC 000000
+
+[Equipped Accessory Slot 2]
+020F0000 06C01DCE 000000
+
+[Equipped Accessory Slot 3]
+020F0000 06C01DD0 000000
+
+[Model/Picture Modifier]
+020F0000 06C01DD5 000000
+
+[-- Kid Codes --]
+20000000
+
+[-- Guile Codes --]
+20000000
+
+[-- Norris Codes --]
+20000000
+
+[-- Nikki Codes --]
+20000000
+
+[-- Viper Codes --]
+20000000
+
+[-- Riddel Codes --]
+20000000
+
+[-- Karsh Codes --]
+20000000
+
+[-- Zoah Codes --]
+20000000
+
+[-- Marcy Codes --]
+20000000
+
+[-- Korcha Codes --]
+20000000
+
+[-- Luccia (Chrono Trigger) Codes --]
+20000000
+
+[-- Poshul Codes --]
+20000000
+
+[-- Razzly Codes --]
+20000000
+
+[-- Zappa Codes --]
+20000000
+
+[-- Orcha Codes --]
+20000000
+
+[-- Radius Codes --]
+20000000
+
+[-- Fargo Codes --]
+20000000
+
+[-- Macha Codes --]
+20000000
+
+[-- Glenn (FROG!!) Codes --]
+20000000
+
+[-- Leena Codes --]
+20000000
+
+[-- Miki Codes --]
+20000000
+
+[-- Harle Codes --]
+20000000
+
+[-- Janice Codes --]
+20000000
+
+[-- Draggy Codes --]
+20000000
+
+[-- Starky Codes --]
+20000000
+
+[-- Sprigg Codes --]
+20000000
+
+[-- Mojo Codes --]
+20000000
+
+[-- Turnip Codes --]
+20000000
+
+[-- NeoFio Codes --]
+20000000
+
+[-- Greco Codes --]
+20000000
+
+[-- Skelly Codes --]
+20000000
+
+[-- Funguy Codes --]
+20000000
+
+[-- Irenes Codes --]
+20000000
+
+[-- Mel Codes --]
+20000000
+
+[-- Leah Codes --]
+20000000
+
+[-- Van Codes --]
+20000000
+
+[-- Sneff Codes --]
+20000000
+
+[-- Steena Codes --]
+20000000
+
+[-- Doc Codes --]
+20000000
+
+[-- Grobyc Codes --]
+20000000
+
+[-- Pierre Codes --]
+20000000
+
+[-- Orlha Codes --]
+20000000
+
+[-- Pip (Normal) Codes --]
+20000000
+

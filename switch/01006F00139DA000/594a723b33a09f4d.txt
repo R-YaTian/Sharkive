@@ -1,0 +1,21 @@
+[Created by Eiffel2018, enjoy!]
+20000000
+
+[Invincible]
+040E0000 001C2FBC 390BA268
+
+[Infinite MP]
+040E0000 001C52B8 2A1F03F4
+
+[5x Experience]
+040E0000 001C67A8 0B010834
+
+[5x Coins]
+040E0000 001C68D8 0B010833
+
+[No decrease for Currency]
+040E0000 004EB3C8 2A1F03F3
+
+[GodMode (Use Skill once to activate)]
+040E0000 001C52DC 390AD268
+

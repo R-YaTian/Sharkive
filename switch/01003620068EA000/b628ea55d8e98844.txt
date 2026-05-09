@@ -1,0 +1,18 @@
+[combo_max_restore 連擊數最大(還原)]
+04000000 003C5384 11000701
+
+[combo_max 連擊數最大]
+04000000 003C5384 110FA301
+
+[dice_inf_times_restore 無限投骰子(還原)]
+04000000 005DCD04 51000508
+
+[dice_inf_times 無限投骰子]
+04000000 005DCD04 D503201F
+
+[dice_value_restore 骰子結果(還原)]
+04000000 005DCD30 51000508
+
+[dice_value_999 骰子結果999]
+04000000 005DCD30 52807CF4
+

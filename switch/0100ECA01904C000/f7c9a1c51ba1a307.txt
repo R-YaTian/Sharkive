@@ -1,0 +1,34 @@
+[Infinite HP]
+04000000 03D569E0 D503201F
+
+[Full Boost Bar]
+04000000 03D889D8 BD414A88
+
+[Faster Movement and Attack Speed]
+04000000 03D583B0 1e2f9000
+
+[Infinite Fire Wheel]
+04000000 03D4CA18 11000108
+
+[Infinite Dash]
+04000000 03D5019C b901d67f
+
+[Infinite Time]
+04000000 03D1E8B4 BD402668
+
+[Infinite Dagger]
+04000000 03D256F4 B900227F
+
+[Infinite Bullets]
+04000000 034220c0 d503201f
+
+[Infinite HP fps mode]
+04000000 03d81f80 d503201f
+
+[Boost Bar No Decrease fps mode]
+04000000 03d81ce4 d503201f
+04000000 03D808E8 d503201f
+
+[Infinite Bullets fps mode]
+04000000 03d82648 d503201f
+

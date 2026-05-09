@@ -1,0 +1,21 @@
+[Unlimited Fee]
+04000000 05FFB1C0 00005431
+
+[Money will not be reduced]
+04000000 05FFB1F8 00005431
+
+[Five times more money]
+04000000 05FFB220 00005431
+
+[Partner's turn does not decrease]
+04000000 05FFB250 00005431
+
+[CPT 5431W]
+04000000 05FFB278 00005431
+
+[Money not decreased]
+04000000 05FFB1F8 00005431
+
+[Cpt]
+04000000 05FFB278 00005431
+
