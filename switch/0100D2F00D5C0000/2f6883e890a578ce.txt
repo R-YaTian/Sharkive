@@ -1,0 +1,489 @@
+[Hold Down L And ZR Or R And ZR Wile Pressing Confirm.]
+00000000 00000000
+
+[--SectionStart:Global & Progression Cheats--]
+20000000
+
+[--SectionEnd:Global & Progression Cheats--]
+20000001
+
+[--SectionStart:Character & Gameplay Modifiers--]
+20000000
+
+[--SectionEnd:Character & Gameplay Modifiers--]
+20000001
+
+[--SectionStart:Tennis--]
+20000000
+
+[--SectionEnd:Tennis--]
+20000001
+
+[--SectionStart:Bowling - Standard Mode--]
+20000000
+
+[--SectionEnd:Bowling - Standard Mode--]
+20000001
+
+[--SectionStart:Bowling - Obstacle & Knockout Mode--]
+20000000
+
+[--SectionEnd:Bowling - Obstacle & Knockout Mode--]
+20000001
+
+[--SectionStart:Chambara - Standard Sword--]
+20000000
+
+[--SectionEnd:Chambara - Standard Sword--]
+20000001
+
+[--SectionStart:Chambara - Charge & Twin Swords--]
+20000000
+
+[--SectionEnd:Chambara - Charge & Twin Swords--]
+20000001
+
+[--SectionStart:Soccer - Match Mode (1v1 / 4v4)--]
+20000000
+
+[--SectionEnd:Soccer - Match Mode (1v1 / 4v4)--]
+20000001
+
+[--SectionStart:Soccer - Shoot-Out Mode--]
+20000000
+
+[--SectionEnd:Soccer - Shoot-Out Mode--]
+20000001
+
+[--SectionStart:Volleyball--]
+20000000
+
+[--SectionEnd:Volleyball--]
+20000001
+
+[--SectionStart:Badminton--]
+20000000
+
+[--SectionEnd:Badminton--]
+20000001
+
+[--SectionStart:Golf - Stroke Play--]
+20000000
+
+[--SectionEnd:Golf - Stroke Play--]
+20000001
+
+[--SectionStart:Golf - Survival Mode--]
+20000000
+
+[--SectionEnd:Golf - Survival Mode--]
+20000001
+
+[--SectionStart:Basketball - 2v2 Match--]
+20000000
+
+[--SectionEnd:Basketball - 2v2 Match--]
+20000001
+
+[--SectionStart:Basketball - 3-Point Contest--]
+20000000
+
+[--SectionEnd:Basketball - 3-Point Contest--]
+20000001
+
+[--SectionStart:Avatar Items & Body Customization--]
+20000000
+
+[--SectionEnd:Avatar Items & Body Customization--]
+20000001
+
+[--SectionStart:Outfits, Clothes & Accessories--]
+20000000
+
+[--SectionEnd:Outfits, Clothes & Accessories--]
+20000001
+
+[--SectionStart:Sports Equipment Skins & Gear--]
+20000000
+
+[--SectionEnd:Sports Equipment Skins & Gear--]
+20000001
+
+[--SectionStart:Emotes, Stamps & Reactions--]
+20000000
+
+[--SectionEnd:Emotes, Stamps & Reactions--]
+20000001
+
+[--SectionStart:Title Badges, Profile & Name Tags--]
+20000000
+
+[--SectionEnd:Title Badges, Profile & Name Tags--]
+20000001
+
+[--SectionStart:Collection Cards & Point Progression--]
+20000000
+
+[--SectionEnd:Collection Cards & Point Progression--]
+20000001
+
+[--SectionStart:Global CPU Behavioral Controls--]
+20000000
+
+[--SectionEnd:Global CPU Behavioral Controls--]
+20000001
+
+[--SectionStart:Soccer - CPU Control--]
+20000000
+
+[--SectionEnd:Soccer - CPU Control--]
+20000001
+
+[--SectionStart:Tennis - CPU Control--]
+20000000
+
+[--SectionEnd:Tennis - CPU Control--]
+20000001
+
+[--SectionStart:Volleyball - CPU Control--]
+20000000
+
+[--SectionEnd:Volleyball - CPU Control--]
+20000001
+
+[--SectionStart:Bowling & Knockout - CPU Control--]
+20000000
+
+[--SectionEnd:Bowling & Knockout - CPU Control--]
+20000001
+
+[--SectionStart:Chambara - CPU Control--]
+20000000
+
+[--SectionEnd:Chambara - CPU Control--]
+20000001
+
+[--SectionStart:Badminton - CPU Control--]
+20000000
+
+[--SectionEnd:Badminton - CPU Control--]
+20000001
+
+[--SectionStart:Golf - CPU Control--]
+20000000
+
+[--SectionEnd:Golf - CPU Control--]
+20000001
+
+[--SectionStart:Basketball - CPU Control--]
+20000000
+
+[--SectionEnd:Basketball - CPU Control--]
+20000001
+
+[--SectionStart:Global System & Cheat Engine Bug Fixes--]
+20000000
+
+[--SectionEnd:Global System & Cheat Engine Bug Fixes--]
+20000001
+
+[--SectionStart:Motion Control & Input Drift Fixes--]
+20000000
+
+[--SectionEnd:Motion Control & Input Drift Fixes--]
+20000001
+
+[--SectionStart:Soccer - Physics & Gameplay Bug Fixes--]
+20000000
+
+[--SectionEnd:Soccer - Physics & Gameplay Bug Fixes--]
+20000001
+
+[--SectionStart:Bowling - Lane & Pin Bug Fixes--]
+20000000
+
+[--SectionEnd:Bowling - Lane & Pin Bug Fixes--]
+20000001
+
+[--SectionStart:Tennis & Badminton - Hit Registration Fixes--]
+20000000
+
+[--SectionEnd:Tennis & Badminton - Hit Registration Fixes--]
+20000001
+
+[--SectionStart:Golf - Terrain & Weather Bug Fixes--]
+20000000
+
+[--SectionEnd:Golf - Terrain & Weather Bug Fixes--]
+20000001
+
+[--SectionStart:Chambara - Collision & Platform Bug Fixes--]
+20000000
+
+[--SectionEnd:Chambara - Collision & Platform Bug Fixes--]
+20000001
+
+[--SectionStart:Volleyball - Timing & Camera Bug Fixes--]
+20000000
+
+[--SectionEnd:Volleyball - Timing & Camera Bug Fixes--]
+20000001
+
+[--SectionStart:Basketball - Hoop & Net Bug Fixes--]
+20000000
+
+[--SectionEnd:Basketball - Hoop & Net Bug Fixes--]
+20000001
+
+[--SectionStart:Global Visual & Character Trolls--]
+20000000
+
+[--SectionEnd:Global Visual & Character Trolls--]
+20000001
+
+[--SectionStart:In-Game Text & Announcer Trolls--]
+20000000
+
+[--SectionEnd:In-Game Text & Announcer Trolls--]
+20000001
+
+[--SectionStart:Soccer - Troll Pack & Text Modifiers--]
+20000000
+
+[--SectionEnd:Soccer - Troll Pack & Text Modifiers--]
+20000001
+
+[--SectionStart:Bowling - Troll Pack & Text Modifiers--]
+20000000
+
+[--SectionEnd:Bowling - Troll Pack & Text Modifiers--]
+20000001
+
+[--SectionStart:Tennis & Badminton - Troll Pack & Text Modifiers--]
+20000000
+
+[--SectionEnd:Tennis & Badminton - Troll Pack & Text Modifiers--]
+20000001
+
+[--SectionStart:Chambara - Troll Pack & Text Modifiers--]
+20000000
+
+[--SectionEnd:Chambara - Troll Pack & Text Modifiers--]
+20000001
+
+[--SectionStart:Golf - Troll Pack & Text Modifiers--]
+20000000
+
+[--SectionEnd:Golf - Troll Pack & Text Modifiers--]
+20000001
+
+[--SectionStart:Volleyball & Basketball - Troll Pack & Text Modifiers--]
+20000000
+
+[--SectionEnd:Volleyball & Basketball - Troll Pack & Text Modifiers--]
+20000001
+
+[--SectionStart:Game Speed Modifiers--]
+20000000
+
+[--SectionEnd:Game Speed Modifiers--]
+20000001
+
+[--SectionStart:FPS & Performance Selection--]
+20000000
+
+[--SectionEnd:FPS & Performance Selection--]
+20000001
+
+[--SectionStart:TV Mode & Handheld Sports Bypass--]
+20000000
+
+[--SectionEnd:TV Mode & Handheld Sports Bypass--]
+20000001
+
+[--SectionStart:Fake Controller & Input Emulation--]
+20000000
+
+[--SectionEnd:Fake Controller & Input Emulation--]
+20000001
+
+[--SectionStart:Advanced Game Engine Modifiers--]
+20000000
+
+[--SectionEnd:Advanced Game Engine Modifiers--]
+20000001
+
+[--SectionStart:Official & European Languages--]
+20000000
+
+[--SectionEnd:Official & European Languages--]
+20000001
+
+[--SectionStart:Asian & Middle Eastern Languages--]
+20000000
+
+[--SectionEnd:Asian & Middle Eastern Languages--]
+20000001
+
+[--SectionStart:Turkic & Historical Languages--]
+20000000
+
+[--SectionEnd:Turkic & Historical Languages--]
+20000001
+
+[--SectionStart:Troll, Meme & Fantasy Languages--]
+20000000
+
+[--SectionEnd:Troll, Meme & Fantasy Languages--]
+20000001
+
+[--SectionStart:Font & UI Text Overrides--]
+20000000
+
+[--SectionEnd:Font & UI Text Overrides--]
+20000001
+
+[--SectionStart:CPU Revenge - All 8 Sports Specifics--]
+20000000
+
+[--SectionEnd:CPU Revenge - All 8 Sports Specifics--]
+20000001
+
+[--SectionStart:Physical Contact Physics Revenge--]
+20000000
+
+[--SectionEnd:Physical Contact Physics Revenge--]
+20000001
+
+[--SectionStart:Real Players - Player 1 (P1) Buffs & God Mode--]
+20000000
+
+[--SectionEnd:Real Players - Player 1 (P1) Buffs & God Mode--]
+20000001
+
+[--SectionStart:Real Players - Individual Controls (P1, P2, P3, P4)--]
+20000000
+
+[--SectionEnd:Real Players - Individual Controls (P1, P2, P3, P4)--]
+20000001
+
+[--SectionStart:Real Players - Trolling & Sabotage (P2 / P3 / P4 Controls)--]
+20000000
+
+[--SectionEnd:Real Players - Trolling & Sabotage (P2 / P3 / P4 Controls)--]
+20000001
+
+[--SectionStart:Avatar & Cosmetic Unlocks--]
+20000000
+
+[--SectionEnd:Avatar & Cosmetic Unlocks--]
+20000001
+
+[--SectionStart:CPU AI & Behavior Manipulation--]
+20000000
+
+[--SectionEnd:CPU AI & Behavior Manipulation--]
+20000001
+
+[--SectionStart:Bug Fixes & System Stability--]
+20000000
+
+[--SectionEnd:Bug Fixes & System Stability--]
+20000001
+
+[--SectionStart:Oh No My Oopsies & Screen Effects--]
+20000000
+
+[--SectionEnd:Oh No My Oopsies & Screen Effects--]
+20000001
+
+[--SectionStart:Wii Sports Classic Mods--]
+20000000
+
+[--SectionEnd:Wii Sports Classic Mods--]
+20000001
+
+[--SectionStart:Boss Fight--]
+20000000
+
+[--SectionEnd:Boss Fight--]
+20000001
+
+[--SectionStart:Osmantus Legend--]
+20000000
+
+[--SectionEnd:Osmantus Legend--]
+20000001
+
+[--SectionStart:Version Downgrader--]
+20000000
+
+[--SectionEnd:Version Downgrader--]
+20000001
+
+[--SectionStart:Version Upgrader--]
+20000000
+
+[--SectionEnd:Version Upgrader--]
+20000001
+
+[--SectionStart:Global AI Model Engine Engines--]
+20000000
+
+[--SectionEnd:Global AI Model Engine Engines--]
+20000001
+
+[--SectionStart:Tennis - Actual AI Overhaul--]
+20000000
+
+[--SectionEnd:Tennis - Actual AI Overhaul--]
+20000001
+
+[--SectionStart:Bowling - Actual AI Overhaul--]
+20000000
+
+[--SectionEnd:Bowling - Actual AI Overhaul--]
+20000001
+
+[--SectionStart:Chambara / Swordplay - Actual AI Overhaul--]
+20000000
+
+[--SectionEnd:Chambara / Swordplay - Actual AI Overhaul--]
+20000001
+
+[--SectionStart:Soccer - Actual AI Overhaul--]
+20000000
+
+[--SectionEnd:Soccer - Actual AI Overhaul--]
+20000001
+
+[--SectionStart:Badminton - Actual AI Overhaul--]
+20000000
+
+[--SectionEnd:Badminton - Actual AI Overhaul--]
+20000001
+
+[--SectionStart:Volleyball - Actual AI Overhaul--]
+20000000
+
+[--SectionEnd:Volleyball - Actual AI Overhaul--]
+20000001
+
+[--SectionStart:Golf - Actual AI Overhaul--]
+20000000
+
+[--SectionEnd:Golf - Actual AI Overhaul--]
+20000001
+
+[--SectionStart:Basketball - Actual AI Overhaul--]
+20000000
+
+[--SectionEnd:Basketball - Actual AI Overhaul--]
+20000001
+
+[--SectionStart:Advanced Neural & LLM Behavioral Modifiers--]
+20000000
+
+[--SectionEnd:Advanced Neural & LLM Behavioral Modifiers--]
+20000001
+

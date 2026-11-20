@@ -1,0 +1,9 @@
+[cpu no move]
+04000000 00E2849C 1E27D000
+
+[car speed mod 1.75x]
+04000000 005D27F0 1E2F9001
+
+[jump size mod1.75x]
+04000000 0141060C 1E2F9000
+

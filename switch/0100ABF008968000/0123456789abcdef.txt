@@ -1,0 +1,274 @@
+[(v1.2.0) PokeDollars doesn't decrease]
+04000000 00C6BED4 4B1F02C1
+04000000 0141495C 4B1F0108
+
+[(v1.2.0) Watts doesn't decrease]
+04000000 01400AEC 4B1F0108
+
+[(v1.2.0) Eggs Hatch Faster (on)]
+04000000 00DB8834 52801FF8
+04000000 00DB885C 52801FF8
+
+[(v1.2.0) Eggs Hatch Faster (off)]
+04000000 00DB8834 321F03F8
+04000000 00DB885C 320003F8
+
+[(v1.2.0) Nursey Staff Always Have an Egg (on)]
+04000000 013DD344 D503201F
+04000000 013DD494 D503201F
+
+[(v1.2.0) Nursey Staff Always Have an Egg (off)]
+04000000 013DD344 7102D53F
+04000000 013DD494 540000C2
+
+[(v1.2.0) Enable IV Judge (on)]
+04000000 00ABA910 52800020
+
+[(v1.2.0) Enable IV Judge (off)]
+04000000 00ABA910 9424C8E8
+
+[(v1.2.0) Active Purple Beam at Non-Active Den (Hold R)]
+04000000 01401CE4 B9400068
+04000000 01401CEC B9400068
+80000080
+04000000 01401CE4 52800048
+04000000 01401CEC 52800048
+20000000
+
+[(v1.2.0) Deactivate Beam at Den (Hold L)]
+04000000 01401D64 39C1C900
+80000040
+04000000 01401D64 52800000
+20000000
+
+[(v1.2.0) 999x Item on Pickup (on)]
+04000000 013FC52C D503201F
+04000000 013FC540 1A8B3168
+04000000 013FC570 1A8A814A
+
+[(v1.2.0) 999x Item on Pickup (off)]
+04000000 013FC52C 710F9D7F
+04000000 013FC540 1A8B3108
+04000000 013FC570 1A8B814A
+
+[(v1.2.0) Instakill (Hold ZR)]
+04000000 008028C0 7900E808
+80000200
+04000000 008028C0 7900E81F
+20000000
+
+[(v1.2.0) Learn all TM / TR (on)]
+04000000 0076D128 52800020
+04000000 0076D168 52800020
+
+[(v1.2.0) Learn all TM / TR (off)]
+04000000 0076D128 1A9F07E0
+04000000 0076D168 1A9F07E0
+
+[(v1.2.0) Redeem Pokemon Let's Go Pikachu Reward (activate before Title Screen)]
+04000000 00C78E6C 6B1F011F
+
+[(v1.2.0) Redeem Pokemon Let's Go Eevee Reward (activate before Title Screen)]
+04000000 00C78EC8 6B1F011F
+
+[(v1.2.0) Redeem Pokemon Quest Reward (activate before Title Screen)]
+04000000 00C78F24 6B1F011F
+
+[(v1.2.0) Always Encounter (M) (Hold R)]
+04000000 00770A20 B9402A68
+04000000 00770A4C B9402A61
+04000000 00770A58 79405A61
+04000000 00770B1C B9402A60
+04000000 00770B24 79405A61
+04000000 00770B80 B9402A60
+04000000 00770B84 79405A61
+80000080
+04000000 00770A20 18FFFE68
+04000000 00770A4C 18FFFD01
+04000000 00770A58 18FFFC81
+04000000 00770B1C 18FFF680
+04000000 00770B24 18FFF621
+04000000 00770B80 18FFF360
+04000000 00770B84 18FFF321
+20000000
+
+[(v1.2.0) Always Encounter (Unobtainable): #001 Bulbassaur]
+08000000 007709E8 00000001 00000000
+
+[(v1.2.0) Always Encounter: #004 Charmander]
+08000000 007709E8 00000004 00000000
+
+[(v1.2.0) Always Encounter (Unobtainable): #007 Squirtle]
+08000000 007709E8 00000007 00000000
+
+[(v1.2.0) Always Encounter (Unobtainable): #077 Ponyta]
+08000000 007709E8 0000004D 00000000
+
+[(v1.2.0) Always Encounter (Shield Exclusive): #077 Galar-Ponyta]
+08000000 007709E8 0000004D 00000001
+
+[(v1.2.0) Always Encounter (Trade Only): #052 Meowth]
+08000000 007709E8 00000034 00000000
+
+[(v1.2.0) Always Encounter (Unobtainable): #052 Alola-Meowth]
+08000000 007709E8 00000034 00000001
+
+[(v1.2.0) Always Encounter: #052 Galar-Meowth]
+08000000 007709E8 00000034 00000002
+
+[(v1.2.0) Always Encounter (Event only): #150 Mewtwo]
+08000000 007709E8 00000096 00000000
+
+[(v1.2.0) Always Encounter (Event only): #151 Mew]
+08000000 007709E8 00000097 00000000
+
+[(v1.2.0) Always Encounter (Unobtainable): #222 Corsola]
+08000000 007709E8 000000DE 00000000
+
+[(v1.2.0) Always Encounter (Shield Exclusive): #222 Galar-Corsola]
+08000000 007709E8 000000DE 00000001
+
+[(v1.2.0) Always Encounter (Shield Exclusive): #246 Larvitar]
+08000000 007709E8 000000F6 00000000
+
+[(v1.2.0) Always Encounter (Event only): #251 Celebi]
+08000000 007709E8 000000FB 00000000
+
+[(v1.2.0) Always Encounter (Shield Exclusive): #270 Lotad]
+08000000 007709E8 0000010E 00000000
+
+[(v1.2.0) Always Encounter (Shield Exclusive): #302 Sableye]
+08000000 007709E8 0000012E 00000000
+
+[(v1.2.0) Always Encounter (Shield Exclusive): #337 Lunatone]
+08000000 007709E8 00000151 00000000
+
+[(v1.2.0) Always Encounter (Event only): #385 Jirachi]
+08000000 007709E8 00000181 00000000
+
+[(v1.2.0) Always Encounter (Shield Exclusive): #453 Croagunk]
+08000000 007709E8 000001C5 00000000
+
+[(v1.2.0) Always Encounter (Shield Exclusive): #577 Solosis]
+08000000 007709E8 00000241 00000000
+
+[(v1.2.0) Always Encounter (Shield Exclusive): #629 Vullaby]
+08000000 007709E8 00000275 00000000
+
+[(v1.2.0) Always Encounter (Event only): #638 Cobalion]
+08000000 007709E8 0000027E 00000000
+
+[(v1.2.0) Always Encounter (Event only): #639 Terrakion]
+08000000 007709E8 0000027F 00000000
+
+[(v1.2.0) Always Encounter (Event only): #640 Virizion]
+08000000 007709E8 00000280 00000000
+
+[(v1.2.0) Always Encounter (Event only): #643 Reshiram]
+08000000 007709E8 00000283 00000000
+
+[(v1.2.0) Always Encounter (Event only): #644 Zekrom]
+08000000 007709E8 00000284 00000000
+
+[(v1.2.0) Always Encounter (Event only): #646 Kyurem]
+08000000 007709E8 00000286 00000000
+
+[(v1.2.0) Always Encounter (Event only): #647 Keldeo]
+08000000 007709E8 00000287 00000000
+
+[(v1.2.0) Always Encounter (Shield Exclusive): #682 Spritzee]
+08000000 007709E8 000002AA 00000000
+
+[(v1.2.0) Always Encounter (Shield Exclusive): #704 Goomy]
+08000000 007709E8 000002C0 00000000
+
+[(v1.2.0) Always Encounter (Unobtainable): #722 Rowlet]
+08000000 007709E8 000002D2 00000000
+
+[(v1.2.0) Always Encounter (Unobtainable): #725 Litten]
+08000000 007709E8 000002D5 00000000
+
+[(v1.2.0) Always Encounter (Unobtainable): #728 Popplio]
+08000000 007709E8 000002D8 00000000
+
+[(v1.2.0) Always Encounter (Shield Exclusive): #765 Oranguru]
+08000000 007709E8 000002FD 00000000
+
+[(v1.2.0) Always Encounter (Shield Exclusive): #780 Drampa]
+08000000 007709E8 0000030C 00000000
+
+[(v1.2.0) Always Encounter (Event only): #789 Cosmog]
+08000000 007709E8 00000315 00000000
+
+[(v1.2.0) Always Encounter (Event only): #790 Cosmoem]
+08000000 007709E8 00000316 00000000
+
+[(v1.2.0) Always Encounter (Event only): #791 Solgaleo]
+08000000 007709E8 00000317 00000000
+
+[(v1.2.0) Always Encounter (Event only): #792 Lunala]
+08000000 007709E8 00000318 00000000
+
+[(v1.2.0) Always Encounter (Event only): #800 Necrozma]
+08000000 007709E8 00000320 00000000
+
+[(v1.2.0) Always Encounter (Event only): #802 Marshadow]
+08000000 007709E8 00000322 00000000
+
+[(v1.2.0) Always Encounter (Event only): #807 Zeraora]
+08000000 007709E8 00000327 00000000
+
+[(v1.2.0) Always Encounter (Event only): #808 Meltan]
+08000000 007709E8 00000328 00000000
+
+[(v1.2.0) Always Encounter (Event only): #809 Melmetal]
+08000000 007709E8 00000329 00000000
+
+[(v1.2.0) Always Encounter: #810 Grookey]
+08000000 007709E8 0000032A 00000000
+
+[(v1.2.0) Always Encounter: #813 Scorbunny]
+08000000 007709E8 0000032D 00000000
+
+[(v1.2.0) Always Encounter: #816 Sobble]
+08000000 007709E8 00000330 00000000
+
+[(v1.2.0) Always Encounter (Shield Exclusive): #875 Eiscue]
+08000000 007709E8 0000036B 00000000
+
+[(v1.2.0) Always Encounter (Sword Exclusive): #888 Zacian]
+08000000 007709E8 00000378 00000000
+
+[(v1.2.0) Always Encounter (Shield Exclusive): #889 Zamazenta]
+08000000 007709E8 00000379 00000000
+
+[(v1.2.0) Always Female Wild/Egg/Fossil Pokemon]
+04000000 00770A88 52800021
+
+[(v1.2.0) Always Male Wild/Egg/Fossil Pokemon]
+04000000 00770A88 52800001
+
+[(v1.2.0) Always Genderless Wild/Egg/Fossil Pokemon]
+04000000 00770A88 52800041
+
+[(v1.2.0) Default Gender Wild/Egg/Fossil Pokemon]
+04000000 00770A88 79406261
+
+[(v1.2.0) Catch Rate set to 100% Capture]
+04000000 0076CD98 529FFFE0
+
+[(v1.2.0) Always Square Shiny Wild/Egg/Fossil Pokemon]
+04000000 007702D4 1400003A
+04000000 007702E4 14000036
+04000000 00780E54 2A0103E9
+
+[(v1.2.0) Always Star Shiny Wild/Egg/Fossil Pokemon]
+04000000 007702D4 1400003A
+04000000 007702E4 14000036
+04000000 00780E54 52000C29
+
+[(v1.2.0) Turn "Always Shiny" cheats OFF]
+04000000 007702D4 54000BA0
+04000000 007702D4 540006C0
+04000000 00780E54 2A0103E9
+

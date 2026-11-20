@@ -1,0 +1,6 @@
+[Unlimited Money]
+041F0000 5F3EC6E8 4e6e6b28
+
+[Unlimited Salaries]
+041F0000 5F3EC6E4 4e6e6b28
+
