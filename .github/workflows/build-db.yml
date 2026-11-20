@@ -2,7 +2,7 @@ name: Build Cheats DB For 3DS and Switch
 
 on:
   push:
-    branches: [ "chs", "nx" ]
+    branches: [ "3ds", "nx" ]
   workflow_dispatch:
 
 permissions:
@@ -20,7 +20,7 @@ jobs:
     - name: Checkout 3ds
       uses: actions/checkout@v7
       with:
-        ref: chs
+        ref: 3ds
         path: 3ds-src
 
     - name: Checkout nx
@@ -59,11 +59,11 @@ jobs:
         name: Sharkive DB ${{ github.event.head_commit.timestamp }}
         tag_name: run-${{ github.run_number }}-${{ github.sha }}
         body: |
-          Triggered by `${{ github.ref_name }}` at `${{ github.sha }}`.
-          Note: `titles.zip` is for the Switch platform
+          Triggered by `${{ github.ref_name }}` at `${{ github.sha }}`
+          Note: `titles.zip` is for the Switch platform  
           Source commits:
           - 3ds: `${{ steps.source-commits.outputs.ctr }}`
-          - nx: `${{ steps.source-commits.outputs.nx }}`
+          - switch: `${{ steps.source-commits.outputs.nx }}`
         draft: false
         prerelease: false
         fail_on_unmatched_files: true
