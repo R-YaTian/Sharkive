@@ -1,0 +1,73 @@
+name: Build Cheats DB For 3DS and Switch
+
+on:
+  push:
+    branches: [ "3ds", "nx" ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.14"]
+
+    steps:
+    - name: Checkout 3ds
+      uses: actions/checkout@v7
+      with:
+        ref: 3ds
+        path: 3ds-src
+
+    - name: Checkout nx
+      uses: actions/checkout@v7
+      with:
+        ref: nx
+        path: nx-src
+
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v6
+      with:
+        python-version: ${{ matrix.python-version }}
+
+    - name: Install 3ds dependencies
+      run: python -m pip install zopflipy
+
+    - name: Build 3ds databases
+      working-directory: 3ds-src
+      run: |
+        python joiner.py
+
+    - name: Build nx databases
+      working-directory: nx-src
+      run: |
+        python joiner.py | python process_titles.py
+
+    - name: Record source commits
+      id: source-commits
+      run: |
+        echo "ctr=$(git -C 3ds-src rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
+        echo "nx=$(git -C nx-src rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
+
+    - name: Upload unified release
+      uses: softprops/action-gh-release@v3
+      with:
+        name: Sharkive DB ${{ github.event.head_commit.timestamp }}
+        tag_name: run-${{ github.run_number }}-${{ github.sha }}
+        body: |
+          Triggered by `${{ github.ref_name }}` at `${{ github.sha }}`
+          Note: `titles.zip` is for the Switch platform  
+          Source commits:
+          - 3ds: `${{ steps.source-commits.outputs.ctr }}`
+          - switch: `${{ steps.source-commits.outputs.nx }}`
+        draft: false
+        prerelease: false
+        fail_on_unmatched_files: true
+        files: |
+          3ds-src/build/3ds_chs.json
+          3ds-src/build/3ds_eng.json
+          nx-src/build/titles.zip
