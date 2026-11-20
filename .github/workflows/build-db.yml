@@ -60,7 +60,8 @@ jobs:
         tag_name: run-${{ github.run_number }}-${{ github.sha }}
         body: |
           Triggered by `${{ github.ref_name }}` at `${{ github.sha }}`
-          Note: `titles.zip` is for the Switch platform  
+          Note: `titles.zip` is for the Switch platform
+
           Source commits:
           - 3ds: `${{ steps.source-commits.outputs.ctr }}`
           - switch: `${{ steps.source-commits.outputs.nx }}`
