@@ -50,7 +50,7 @@ jobs:
     - name: Record source commits
       id: source-commits
       run: |
-        echo "3ds=$(git -C 3ds-src rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
+        echo "ctr=$(git -C 3ds-src rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
         echo "nx=$(git -C nx-src rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
 
     - name: Upload unified release
@@ -62,7 +62,7 @@ jobs:
           Triggered by `${{ github.ref_name }}` at `${{ github.sha }}`.
           Note: `titles.zip` is for the Switch platform
           Source commits:
-          - 3ds: `${{ steps.source-commits.outputs.3ds }}`
+          - 3ds: `${{ steps.source-commits.outputs.ctr }}`
           - nx: `${{ steps.source-commits.outputs.nx }}`
         draft: false
         prerelease: false
