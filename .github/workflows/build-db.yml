@@ -45,7 +45,7 @@ jobs:
     - name: Build nx databases
       working-directory: nx-src
       run: |
-        python joiner.py | python process_titles.py
+        python process_titles.py
 
     - name: Record source commits
       id: source-commits
