@@ -1,0 +1,15 @@
+[本金手指作者：DaBlackDeath]
+[RelicRace Crate add 30sec to freeze timer]
+04000000 00FA7A0C 1E27D000
+[进站道具解锁]
+04000000 01053018 52800020
+[普通道具解锁]
+04000000 01051DF0 52800020
+[N.Tropy解锁]
+04000000 01052B0C 52800020
+[Unlock Penta Pinguin]
+04000000 01052140 52800020
+[Beat All Oxide Times - Digital NTropy Skin]
+04000000 01052D78 52800020
+[全皮肤解锁]
+04000000 01052414 52800020

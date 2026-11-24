@@ -1,0 +1,21 @@
+[本金手指作者：Smoker1]
+[无限氮气(开启)]
+04000000 01520510 52800120
+[无限氮气(关闭)]
+04000000 01520510 B9402000
+[无限燃料(开启)]
+01000000 0153B4AC 00000022
+[无限燃料(关闭)]
+01000000 0153B4AC 0000002A
+[比赛总是第一名(开启)]
+04000000 012CDB30 52800000
+[比赛总是第一名(关闭)]
+04000000 012CDB30 B9410400
+[Possible Disable Front Collision Speed Rebuff 1]
+04000000 024DC850 D65F03C0
+[Possible Disable Front Collision Speed Rebuff 2]
+04000000 024D9DB0 D65F03C0
+[Possible Disable Front Collision Speed Rebuff 3]
+04000000 024D9AB0 D65F03C0
+[Possible Disable Front Collision Speed Rebuff 4]
+04000000 024D9160 D65F03C0
