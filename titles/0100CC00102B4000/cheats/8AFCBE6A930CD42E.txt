@@ -61,7 +61,7 @@
 780C0000 00000060
 310D0000
 
-[Inf. Skill Points Custom Skaters (AMS Only)]]
+[Inf. Skill Points Custom Skaters (AMS Only)]
 580C0000 07650568
 580C1000 00000010
 580C1000 00000140

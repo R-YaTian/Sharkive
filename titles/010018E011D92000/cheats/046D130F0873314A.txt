@@ -393,10 +393,10 @@ C04612F0 00000000
 [Unlimited Digging (Off)]
 04000000 01E0483C BD016260
 
-[All Dig Spots]              ]
+[All Dig Spots]
 04000000 01D11BB4 529FFFE0
 
-[Instant Finish Dig (USE ONLY WITH LIGHSTONE BONUS)]  ]
+[Instant Finish Dig (USE ONLY WITH LIGHSTONE BONUS)]
 04000000 01DFBA3C 52800020
 
 [Instant 40 Lightstones]

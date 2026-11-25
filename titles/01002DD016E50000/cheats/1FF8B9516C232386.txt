@@ -27,7 +27,7 @@
 [Pocket Fighter HP]
 01100000 04ff84e0 00000090
 
-[[Pocket Fighter Infinite Super]
+[Pocket Fighter Infinite Super]
 01100000 04ff8635 00000009
 01100000 04ff8642 00000060
 01100000 04ff8644 00000060

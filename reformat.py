@@ -1,10 +1,11 @@
-"""Add blank lines between cheat sections for cheats TXT file."""
+"""Reformat cheat titles, section spacing, code words spacing and remove BOM in TXT files."""
 
 from pathlib import Path
 import re
 
 
-HEADER = re.compile(rb"[ \t]*(?:\[[^\r\n]*\]|\{[^\r\n]*\})[ \t]*")
+HEADER = re.compile(rb"[ \t]*(\[[^]\r\n]*\]|\{[^}\r\n]*\})")
+CODE_LINE = re.compile(rb"([ \t]*)([0-9A-Fa-f]{8}(?:[ \t]+[0-9A-Fa-f]{8})+)([ \t]*)")
 LINE_END = re.compile(rb"\r\n|\n|\r")
 UTF8_BOM = b"\xef\xbb\xbf"
 
@@ -19,18 +20,20 @@ def reformat(data: bytes) -> bytes:
     newline = first_end.group() if first_end else b"\r\n"
     output = []
     for line in lines:
-        if (
-            output
-            and output[-1].strip()
-            and HEADER.fullmatch(line.rstrip(b"\r\n"))
-        ):
-            output.append(newline)
-        output.append(line)
-        end = LINE_END.search(line)
+        body = line.rstrip(b"\r\n")
+        end = line[len(body):]
+        if header := HEADER.match(body):
+            if output and output[-1].strip():
+                output.append(newline)
+            body = header[1]
+        elif code := CODE_LINE.fullmatch(body):
+            leading, words, trailing = code.groups()
+            body = leading + b" ".join(words.split()) + trailing
+        output.append(body + end)
         if end:
-            newline = end.group()
+            newline = end
 
-    return bom + b"".join(output)
+    return b"".join(output)
 
 
 def main() -> None:
@@ -52,10 +55,6 @@ def main() -> None:
         else:
             unchanged.append(path)
     print(f"Scanned {scanned} TXT files, updated {updated}, unchanged {len(unchanged)}.")
-    if unchanged:
-        print("Unchanged files:")
-        for path in sorted(unchanged):
-            print(path)
 
 
 if __name__ == "__main__":

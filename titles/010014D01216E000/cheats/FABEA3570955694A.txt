@@ -453,7 +453,7 @@ C10F0F00
 [2.畑ステータス/Field Status]
 20000000
 
-[  2.1.成長速度?健康のみ/OnlySpeedHealth]
+[  2.1.成長速度健康のみ/OnlySpeedHealth]
 580F0000 05ECE298
 580F1000 000000B8
 580F1000 00000060
