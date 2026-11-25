@@ -15,7 +15,7 @@
 [全角色解锁]
 080F0000 06DA4CB8 FFFFFFFF FFFFFFFF
 
-[--In Battle Codes--]
+[--战斗金手指--]
 20000000
 
 [无限HP]
