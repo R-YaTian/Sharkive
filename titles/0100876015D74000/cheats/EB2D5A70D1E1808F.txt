@@ -1,4 +1,5 @@
 [本金手指作者：nolberto82]
+
 [Always Hit Homerun : Hold R Hold Left Stick Left/Right to pull the ball/opposite field. Not holding the left stick will hit it to center field by default]
 04000000 017FB080 2D560A61
 04000000 017FB084 1E200823
@@ -20,11 +21,13 @@
 04000000 017FB094 52B86289
 04000000 017FB098 B900BA69
 20000000
+
 [Can Always Make Contact : Hold L]
 04000000 017F7734 3943BA68
 80000040
 04000000 017F7734 52800008
 20000000
+
 [Can't Make Contact(For pitching) : Hold L]
 04000000 017F7138 D10583FF
 80000100

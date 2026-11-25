@@ -1,4 +1,5 @@
 [本金手指作者：Jasonclarke1986]
+
 [Always 6 press zr after rolling dice]
 80000200
 580F0000 04940FE8

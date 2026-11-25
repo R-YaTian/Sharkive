@@ -1,5 +1,7 @@
 [本金手指作者：crazy_p]
+
 [Aspect Ratio 16:9]
 04100000 00A276F4 40000000
+
 [Aspect Ratio 4:3 )]
 04100000 00A276F4 3FC00000

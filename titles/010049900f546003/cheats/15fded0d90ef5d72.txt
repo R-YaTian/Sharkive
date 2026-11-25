@@ -1,38 +1,56 @@
 [本金手指作者：matias3ds、Rafa10、Korados]
+
 [无限生命]
 04000000 0222c0e8 000003E7
+
 [Infinite Star Bits]
 020F0000 01BBFEC0 000003E7
+
 [Infinite Star Bits (Observatory Grounds)]
 040F0000 0222C0EC 0000270F
 040F0000 02342B14 0000270F
+
 [硬币最大]
 020F0000 02316CF8 000003E7
+
 [Flat Knockback Damage]
 04000000 002358CC E3A0604D
+
 [Mini Knockback Damage]
 04000000 002358CC E3A0604E
+
 [Sit on Air Knockback Damage]
 04000000 002358CC E3A0604F
+
 [Small Longer Knockback Damage]
 04000000 002358CC E3A06050
+
 [Spin Player Damage]
 04000000 002358CC E3A06051
+
 [Big Knockback Damage]
 04000000 002358CC E3A06052
+
 [lat Knockback but Player Waves Their Neck Damage]
 04000000 002358CC E3A06053
+
 [Giant Knockback]
 04000000 002358CC E3A06055
+
 [Fire Damage]
 04000000 002358CC E3A06057
+
 [Lightning Damage]
 04000000 002358CC E3A0605A
+
 [Freeze Damage]
 04000000 002358CC E3A0605D
+
 [Press Damage]
 04000000 002358CC E3A0605E
+
 [Bump Damage]
 04000000 002358CC E3A0605F
+
 [Backflip Damage]
 04000000 002358CC E3A06061
