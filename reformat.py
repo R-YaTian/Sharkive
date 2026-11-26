@@ -41,6 +41,11 @@ def main() -> None:
     if not titles.is_dir():
         raise SystemExit(f"Directory not found: {titles}")
 
+    for title_dir in titles.iterdir():
+        if title_dir.is_dir() and len(title_dir.name) != 16:
+            msg = f"Warning: Folder '{title_dir.name}' length is not 16 characters"
+            print(msg)
+
     scanned = updated = 0
     unchanged = []
     for path in titles.rglob("*.txt"):
