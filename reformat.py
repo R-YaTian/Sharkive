@@ -31,9 +31,11 @@ def reformat(data: bytes) -> bytes:
             body = leading + b" ".join(words.split()) + trailing
         output.append(body + (newline if has_end else b""))
 
-    if output[-1].strip():
-        if not output[-1].endswith(newline):
-            output.append(newline)
+    while output and not output[-1].strip():
+        output.pop()
+
+    if output and not output[-1].endswith(newline):
+        output.append(newline)
 
     return b"".join(output)
 
