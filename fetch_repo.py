@@ -112,7 +112,7 @@ def main():
         print("="*50)
 
     print("\n" + "="*50)
-    print("Step 5: Cleanup tmp folder")
+    print("Step 4: Cleanup tmp folder")
     print("="*50)
     cleanup_tmp()
 
