@@ -53,6 +53,9 @@ def main() -> None:
     for path in titles.rglob("*.txt"):
         if not path.is_file():
             continue
+        if len(path.stem) != 16:
+            msg = f"Warning: File '{path.stem}' length is not 16 characters"
+            print(msg)
         original = path.read_bytes()
         formatted = reformat(original)
         scanned += 1
