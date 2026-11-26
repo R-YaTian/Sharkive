@@ -21,7 +21,7 @@ def reformat(data: bytes) -> bytes:
     output = []
     for line in lines:
         body = line.rstrip(b"\r\n")
-        end = line[len(body):]
+        has_end = len(body) < len(line)
         if header := HEADER.match(body):
             if output and output[-1].strip():
                 output.append(newline)
@@ -29,9 +29,11 @@ def reformat(data: bytes) -> bytes:
         elif code := CODE_LINE.fullmatch(body):
             leading, words, trailing = code.groups()
             body = leading + b" ".join(words.split()) + trailing
-        output.append(body + end)
-        if end:
-            newline = end
+        output.append(body + (newline if has_end else b""))
+
+    if output[-1].strip():
+        if not output[-1].endswith(newline):
+            output.append(newline)
 
     return b"".join(output)
 
