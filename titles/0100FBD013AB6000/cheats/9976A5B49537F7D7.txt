@@ -28,7 +28,7 @@
 04000000 01DE98F8 17C9795E
 20000000
 
-[Fill the spare tire (press the shortcut key once to repair it to take effect]
+[Fill the spare tire (press the shortcut key once to repair it to take effect)]
 04000000 010483AC B9059A6A
 80001100
 04000000 010483AC B9059A6A

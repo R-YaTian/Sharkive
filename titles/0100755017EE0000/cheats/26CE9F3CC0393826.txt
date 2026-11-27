@@ -162,7 +162,7 @@
 [Obtain Celestia’s Gift add 100]
 04000000 04A30F14 11019108
 
-[Max Cashnuts (Get/Buy/Sell]
+[Max Cashnuts (Get/Buy/Sell)]
 04000000 04A30ED0 2A0A03E9
 
 [Max Goddess fruit obtain/buy 999 (Must Have 1 Qty)]

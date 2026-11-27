@@ -879,10 +879,10 @@
 780F0000 00000068
 640F0000 00000000 00000064
 
-[CP - Infinite Range ON (GunBullet.Update m_RemainDistance NOP, Bytecode Verified)]
+[CP - Infinite Range ON]
 04000000 03A7F878 D503201F
 
-[CP - Infinite Range OFF (Restore Original STR S0,[X19,#0x94]
+[CP - Infinite Range OFF]
 04000000 03A7F878 BD009660
 
 [Gun Multi-Shot 5 ON]

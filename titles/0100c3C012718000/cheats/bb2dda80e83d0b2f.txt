@@ -31,7 +31,7 @@
 04000000 01059F20 B9000F29 
 04000000 01059F20 D503201F 
 
-[  kill all (enable hp 900 at least once for hero to not di,]
+[  kill all]
 04000000 00F8D538 BD443260 
 80000110 
 04000000 00F8D538 BD443260 

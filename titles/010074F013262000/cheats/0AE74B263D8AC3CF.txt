@@ -723,7 +723,7 @@
 [Fast increase in bonding points]
 040B0000 00304ED0 0B141114
 
-[Tie Points Not Reduced (DLC）]
+[Tie Points Not Reduced (DLC)]
 040B0000 00771DB4 4B1F0008
 
 [Mark the Crowned One's Tombstone On]
@@ -787,7 +787,7 @@
 [Walking on sand will not be washed away]
 040B0000 00B76218 1E212020
 
-[Scene Damage Invalidated (Hazard Resistance）]
+[Scene Damage Invalidated (Hazard Resistance)]
 040B0000 00B93780 17FFFF9F
 
 [Ignore Collection Class Quest Requirements On]

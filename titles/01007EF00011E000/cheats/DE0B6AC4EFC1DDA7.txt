@@ -1798,11 +1798,6 @@ A8BA0000
 [sword spin lvl 3]
 04000000 00B591C8 B91F9409
 
-[î one-click Kill All]
-80000020
-04000000 00A81F1C 4B080108
-20000000
-
 [Desert Heat and Cold regions]
 04000000 00BCCE64 BD608800
 04000000 00BCCE64 1CF69520
@@ -1839,11 +1834,6 @@ A8BA0000
 04000000 00BB3C94 D503201F
 04000000 00BB1990 D503201F
 
-[one-click Kill All*]
-80000020
-04000000 00A81F1C 4B080108
-20000000
-
 [ speed boost]
 04000000 01195708 BD410660
 80000010
@@ -1856,7 +1846,7 @@ A8BA0000
 04000000 01195678 1E3C1000
 20000000
 
-[ one-click Kill All]
+[ 一键击杀所有]
 80000020
 04000000 00A81F1C 4B080108
 20000000
@@ -2091,10 +2081,7 @@ A8BA0000
 04000000 00B591C8 B91F9408
 04000000 00A81F1C 4B090108
 
-[Note: This only works on REGULAR lightning. Naboris' lightning can still strike you and interrupt you.]
-These 4 Codes require you to be able to use them. if you havent unlocked them, they will not work:
-
-[ speed boost]
+[speed boost]
 04000000 01195708 BD410660
 80000010
 04000000 01195708 1E241000

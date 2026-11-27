@@ -67,49 +67,49 @@
 [1p speed move attack normal @xtatu]
 04000000 000E19A4 EEF70A00
 
-[1) P1 max lives]
+[1. P1 max lives]
 040E0000 00844BA0 0000000A
 
-[2) P2 max lives]
+[2. P2 max lives]
 040E0000 00844BA4 0000000A
 
-[3) Max money - on]
+[3. Max money - on]
 040E0000 001650F8 E320F000
 
-[3) Max monry - off]
+[3. Max monry - off]
 040E0000 001650F8 31A02001
 
-[4) Money not reduce - on]
+[4. Money not reduce - on]
 040E0000 00165144 E1A01002
 
-[4) Monry not reduce - off]
+[4. Monry not reduce - off]
 040E0000 00165144 E0421001
 
-[5) Max Diamond - on]
+[5. Max Diamond - on]
 040E0000 00165228 E320F000
 
-[5) Max Diamond - off]
+[5. Max Diamond - off]
 040E0000 00165228 31A02001
 
-[6) Diamond not reduce - on]
+[6. Diamond not reduce - on]
 040E0000 00165278 E1A01002
 
-[6) Diamond not reduce - off]
+[6. Diamond not reduce - off]
 040E0000 00165278 E0421001
 
-[7) Max Stances - on]
+[7. Max Stances - on]
 040E0000 001655A4 E3A01032
 040E0000 001656A0 E3A01032
 
-[7) Max Stances - off]
+[7. Max Stances - off]
 040E0000 001655A4 E2821001
 040E0000 001656A0 E2821001
 
-[8) Max Sosetsitsu - on]
+[8. Max Sosetsitsu - on]
 040E0000 00165388 E3A01032
 040E0000 001654A8 E3A00032
 
-[8) Max Sosetsitsu - off]
+[8. Max Sosetsitsu - off]
 040E0000 00165388 E2811001
 040E0000 001654A8 E0800002
 

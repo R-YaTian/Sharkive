@@ -72,7 +72,7 @@ A8120310
 20000000
 20000000
 
-[№ 8. Chat Buffer to Slot 1(ZR+D-Pad Right: Item ID|ZR + D-Pad Left]
+[№ 8. Chat Buffer to Slot 1(ZR+右:Item ID|ZR+左:修改)]
 80000200
 580A0000 05254A40
 980AA100 00000000 00000040

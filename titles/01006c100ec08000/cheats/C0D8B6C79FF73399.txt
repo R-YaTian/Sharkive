@@ -5,7 +5,7 @@
 78000000 00000104
 64000000 00000000 000003E7
 
-[Infinite Emerald (deactivate when entering a stage]
+[Infinite Emerald (deactivate when entering a stage)]
 58000000 08DECA88
 58001000 00000350
 58001000 000000D0

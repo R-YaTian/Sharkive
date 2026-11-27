@@ -5,6 +5,12 @@ import stat
 import os
 
 
+# Cheat buildid blacklist, keyed by title ID
+CHEAT_BUILDID_BLACKLIST = {
+    "0100eb60159e4000": ["9e47489ddafa3530"],
+}
+
+
 def get_proxy_config():
     """Get proxy configuration from environment variables"""
     proxies = {}
@@ -169,8 +175,10 @@ def merge_cheats(src_dir, dest_dir):
 
                 # Check if filename (without extension) length is 16 characters
                 if len(name_without_ext) != 16:
-                    msg = f"  Warning: File '{file_path.name}' (without extension) length is not 16 characters, skipped"
-                    warnings.append(msg)
+                    # Silently skip files that are 64 characters long
+                    if len(name_without_ext) != 64:
+                        msg = f"  Warning: File '{file_path.name}' (without extension) length is not 16 characters, skipped"
+                        warnings.append(msg)
                     continue
 
                 # Skip title cheat files whose build ID matches the title ID
@@ -179,8 +187,14 @@ def merge_cheats(src_dir, dest_dir):
                     warnings.append(msg)
                     continue
 
-                if " " in name_without_ext:
-                    msg = f"  Warning: {name_without_ext} -> This build id is invalid due to containing spaces"
+                if " " in name_without_ext or name_without_ext == "0000000000000000":
+                    msg = f"  Warning: {name_without_ext} -> This build id is invalid due to containing spaces or being all zeros"
+                    warnings.append(msg)
+                    continue
+
+                blacklisted_buildids = CHEAT_BUILDID_BLACKLIST.get(folder_name.casefold(), ())
+                if any(name_without_ext.casefold() == buildid.casefold() for buildid in blacklisted_buildids):
+                    msg = f"  Warning: {name_without_ext} is blacklisted for title id {folder_name}, skipped"
                     warnings.append(msg)
                     continue
 

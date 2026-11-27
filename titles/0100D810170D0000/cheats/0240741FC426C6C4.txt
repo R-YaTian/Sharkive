@@ -48,7 +48,7 @@
 [end]
 20000001
 
-[HP + Immunity To Fire & From Using Jade (jhmiller]
+[HP + Immunity To Fire & From Using Jade]
 04000000 01D1DD3C D503201F
 04000000 01D1E4AC D503201F
 04000000 01D1D7E8 D503201F
