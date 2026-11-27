@@ -4,9 +4,6 @@
 [Max Stars]
 040F0000 06C04E54 00630063
 
-[-- Battle Codes --]
-20000000
-
 [Inf. Health]
 12050000 06D80AE0 0000032C
 020F0000 06C6CBF0 000003E7
@@ -35,9 +32,6 @@
 020F0000 06C6E860 00000001
 20000000
 
-[-- Item Codes --]
-20000000
-
 [Have Most Elements]
 400A0000 00000000 06C04940
 40010000 00000000 00000001
@@ -51,24 +45,6 @@ A21A1300
 080A0000 06C04AC0 63636363 63636363
 780A0000 00000008
 31010000
-
-[-- Misc Codes --]
-20000000
-
-[Character 1 Modifier]
-010F0000 06C04B8C 000000
-
-[Character 2 Modifier]
-010F0000 06C04B8D 000000
-
-[Character 3 Modifier]
-010F0000 06C04B8E 000000
-
-[-- Character Codes --]
-20000000
-
-[-- Serge Codes --]
-20000000
 
 [Max HP]
 020F0000 06C01DBE 000003E7
@@ -96,150 +72,3 @@ A21A1300
 
 [Max Stamina Recovery]
 010F0000 06C01DC7 000000FF
-
-[Equipped Weapon]
-020F0000 06C01DC8 000000
-
-[Equipped Armor]
-020F0000 06C01DCA 000000
-
-[Equipped Accessory Slot 1]
-020F0000 06C01DCC 000000
-
-[Equipped Accessory Slot 2]
-020F0000 06C01DCE 000000
-
-[Equipped Accessory Slot 3]
-020F0000 06C01DD0 000000
-
-[Model/Picture Modifier]
-020F0000 06C01DD5 000000
-
-[-- Kid Codes --]
-20000000
-
-[-- Guile Codes --]
-20000000
-
-[-- Norris Codes --]
-20000000
-
-[-- Nikki Codes --]
-20000000
-
-[-- Viper Codes --]
-20000000
-
-[-- Riddel Codes --]
-20000000
-
-[-- Karsh Codes --]
-20000000
-
-[-- Zoah Codes --]
-20000000
-
-[-- Marcy Codes --]
-20000000
-
-[-- Korcha Codes --]
-20000000
-
-[-- Luccia (Chrono Trigger) Codes --]
-20000000
-
-[-- Poshul Codes --]
-20000000
-
-[-- Razzly Codes --]
-20000000
-
-[-- Zappa Codes --]
-20000000
-
-[-- Orcha Codes --]
-20000000
-
-[-- Radius Codes --]
-20000000
-
-[-- Fargo Codes --]
-20000000
-
-[-- Macha Codes --]
-20000000
-
-[-- Glenn (FROG!!) Codes --]
-20000000
-
-[-- Leena Codes --]
-20000000
-
-[-- Miki Codes --]
-20000000
-
-[-- Harle Codes --]
-20000000
-
-[-- Janice Codes --]
-20000000
-
-[-- Draggy Codes --]
-20000000
-
-[-- Starky Codes --]
-20000000
-
-[-- Sprigg Codes --]
-20000000
-
-[-- Mojo Codes --]
-20000000
-
-[-- Turnip Codes --]
-20000000
-
-[-- NeoFio Codes --]
-20000000
-
-[-- Greco Codes --]
-20000000
-
-[-- Skelly Codes --]
-20000000
-
-[-- Funguy Codes --]
-20000000
-
-[-- Irenes Codes --]
-20000000
-
-[-- Mel Codes --]
-20000000
-
-[-- Leah Codes --]
-20000000
-
-[-- Van Codes --]
-20000000
-
-[-- Sneff Codes --]
-20000000
-
-[-- Steena Codes --]
-20000000
-
-[-- Doc Codes --]
-20000000
-
-[-- Grobyc Codes --]
-20000000
-
-[-- Pierre Codes --]
-20000000
-
-[-- Orlha Codes --]
-20000000
-
-[-- Pip (Normal) Codes --]
-20000000

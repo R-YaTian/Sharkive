@@ -7,7 +7,19 @@ import os
 
 # Cheat buildid blacklist, keyed by title ID
 CHEAT_BUILDID_BLACKLIST = {
-    "0100eb60159e4000": ["9e47489ddafa3530"],
+    "0100EB60159E4000": ["9e47489ddafa3530"],
+    "01004B100AF18000": ["BF963CA291D09C51"],
+    "010069C01AB82000": ["BF963CA291D09C51", "DEF7D50343261C61"],
+    "01002F7013224000": ["BFD5BD430097654C", "D5E60CEDFEECDC41", "D626F7A72AF54744"],
+    "0100CDC013238000": ["BFD5BD430097654C", "54DE72AFB1AFCC43"],
+    "010015600EFB6000": ["DC72232650D79885"]
+}
+
+
+# Suspected invalid build IDs that should be treated with caution during processing
+SUSPECTED_INVALID_BUILD_IDS = {
+    "42481AFD45D3D4F1",
+    "116A8E9D8DE993B7",
 }
 
 
@@ -175,8 +187,9 @@ def merge_cheats(src_dir, dest_dir):
 
                 # Check if filename (without extension) length is 16 characters
                 if len(name_without_ext) != 16:
-                    # Silently skip files that are 64 characters long
-                    if len(name_without_ext) != 64:
+                    is_hex = all(char in "0123456789abcdef" for char in name_without_ext.casefold())
+                    # Silently skip non-hex names and 64-character build IDs.
+                    if is_hex and len(name_without_ext) != 64:
                         msg = f"  Warning: File '{file_path.name}' (without extension) length is not 16 characters, skipped"
                         warnings.append(msg)
                     continue
@@ -184,7 +197,7 @@ def merge_cheats(src_dir, dest_dir):
                 # Skip title cheat files whose build ID matches the title ID
                 if name_without_ext.casefold() == folder_name.casefold():
                     msg = f"  Warning: {name_without_ext} is equal to title id, skipped"
-                    warnings.append(msg)
+                    # warnings.append(msg)
                     continue
 
                 if " " in name_without_ext or name_without_ext == "0000000000000000":
@@ -192,9 +205,14 @@ def merge_cheats(src_dir, dest_dir):
                     warnings.append(msg)
                     continue
 
-                blacklisted_buildids = CHEAT_BUILDID_BLACKLIST.get(folder_name.casefold(), ())
+                blacklisted_buildids = CHEAT_BUILDID_BLACKLIST.get(folder_name.upper(), ())
                 if any(name_without_ext.casefold() == buildid.casefold() for buildid in blacklisted_buildids):
                     msg = f"  Warning: {name_without_ext} is blacklisted for title id {folder_name}, skipped"
+                    warnings.append(msg)
+                    continue
+
+                if name_without_ext.casefold() in (bid.casefold() for bid in SUSPECTED_INVALID_BUILD_IDS):
+                    msg = f"  Warning: {name_without_ext} is suspected to be an invalid build ID, skipped"
                     warnings.append(msg)
                     continue
 
